@@ -1,0 +1,1326 @@
+2026-07-13 17:33:39 [INF] User profile is available. Using 'C:\Users\saiteja.anumala\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2026-07-13 17:33:39 [INF] Now listening on: https://localhost:7272
+2026-07-13 17:33:39 [INF] Now listening on: http://localhost:5280
+2026-07-13 17:33:39 [INF] Application started. Press Ctrl+C to shut down.
+2026-07-13 17:33:39 [INF] Hosting environment: Development
+2026-07-13 17:33:39 [INF] Content root path: D:\DotNet\SMS
+2026-07-13 17:33:40 [INF] Request starting HTTP/2 GET https://localhost:7272/swagger/index.html - null null
+2026-07-13 17:33:40 [INF] Request finished HTTP/2 GET https://localhost:7272/swagger/index.html - 200 null text/html;charset=utf-8 188.6421ms
+2026-07-13 17:33:40 [INF] Request starting HTTP/2 GET https://localhost:7272/_framework/aspnetcore-browser-refresh.js - null null
+2026-07-13 17:33:40 [INF] Request starting HTTP/2 GET https://localhost:7272/_vs/browserLink - null null
+2026-07-13 17:33:40 [INF] Request finished HTTP/2 GET https://localhost:7272/_framework/aspnetcore-browser-refresh.js - 200 14911 application/javascript; charset=utf-8 8.9436ms
+2026-07-13 17:33:40 [INF] Request finished HTTP/2 GET https://localhost:7272/_vs/browserLink - 200 null text/javascript; charset=UTF-8 32.4809ms
+2026-07-13 17:33:40 [INF] Request starting HTTP/2 GET https://localhost:7272/swagger/v1/swagger.json - null null
+2026-07-13 17:33:40 [INF] Request finished HTTP/2 GET https://localhost:7272/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 27.4858ms
+2026-07-13 17:34:16 [INF] Request starting HTTP/2 GET https://localhost:7272/ - null null
+2026-07-13 17:34:16 [INF] Executing endpoint 'HTTP: GET /'
+2026-07-13 17:34:16 [INF] Setting HTTP status code 200.
+2026-07-13 17:34:16 [INF] Writing value of type '<>f__AnonymousType5`2' as Json.
+2026-07-13 17:34:16 [INF] Executed endpoint 'HTTP: GET /'
+2026-07-13 17:34:16 [INF] Request finished HTTP/2 GET https://localhost:7272/ - 200 null application/json; charset=utf-8 58.1464ms
+2026-07-13 17:43:12 [INF] Request starting HTTP/2 GET https://localhost:7272/swagger/v2/swagger.json - null null
+2026-07-13 17:43:12 [INF] Request finished HTTP/2 GET https://localhost:7272/swagger/v2/swagger.json - 200 null application/json;charset=utf-8 11.7199ms
+2026-07-13 17:43:13 [INF] Request starting HTTP/2 GET https://localhost:7272/swagger/v1/swagger.json - null null
+2026-07-13 17:43:13 [INF] Request finished HTTP/2 GET https://localhost:7272/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 11.1296ms
+2026-07-13 17:43:18 [INF] Request starting HTTP/2 GET https://localhost:7272/swagger/v2/swagger.json - null null
+2026-07-13 17:43:18 [INF] Request finished HTTP/2 GET https://localhost:7272/swagger/v2/swagger.json - 200 null application/json;charset=utf-8 7.6755ms
+2026-07-13 17:43:24 [INF] Request starting HTTP/2 GET https://localhost:7272/swagger/v1/swagger.json - null null
+2026-07-13 17:43:24 [INF] Request finished HTTP/2 GET https://localhost:7272/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 13.4407ms
+2026-07-13 17:43:39 [INF] User profile is available. Using 'C:\Users\saiteja.anumala\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2026-07-13 17:43:39 [INF] Now listening on: https://localhost:7272
+2026-07-13 17:43:39 [INF] Now listening on: http://localhost:5280
+2026-07-13 17:43:39 [INF] Application started. Press Ctrl+C to shut down.
+2026-07-13 17:43:39 [INF] Hosting environment: Development
+2026-07-13 17:43:39 [INF] Content root path: D:\DotNet\SMS
+2026-07-13 17:43:40 [INF] Request starting HTTP/2 GET https://localhost:7272/swagger/index.html - null null
+2026-07-13 17:43:40 [INF] Request finished HTTP/2 GET https://localhost:7272/swagger/index.html - 200 null text/html;charset=utf-8 178.2317ms
+2026-07-13 17:43:40 [INF] Request starting HTTP/2 GET https://localhost:7272/_framework/aspnetcore-browser-refresh.js - null null
+2026-07-13 17:43:40 [INF] Request starting HTTP/2 GET https://localhost:7272/_vs/browserLink - null null
+2026-07-13 17:43:40 [INF] Request finished HTTP/2 GET https://localhost:7272/_framework/aspnetcore-browser-refresh.js - 200 14911 application/javascript; charset=utf-8 7.7343ms
+2026-07-13 17:43:40 [INF] Request finished HTTP/2 GET https://localhost:7272/_vs/browserLink - 200 null text/javascript; charset=UTF-8 31.0767ms
+2026-07-13 17:43:40 [INF] Request starting HTTP/2 GET https://localhost:7272/swagger/v1/swagger.json - null null
+2026-07-13 17:43:40 [INF] Request finished HTTP/2 GET https://localhost:7272/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 20.3185ms
+2026-07-13 17:46:08 [INF] Request starting HTTP/2 GET https://localhost:7272/ - null null
+2026-07-13 17:46:08 [INF] Executing endpoint 'HTTP: GET /'
+2026-07-13 17:46:09 [INF] Setting HTTP status code 200.
+2026-07-13 17:46:09 [INF] Writing value of type '<>f__AnonymousType5`2' as Json.
+2026-07-13 17:46:09 [INF] Executed endpoint 'HTTP: GET /'
+2026-07-13 17:46:09 [INF] Request finished HTTP/2 GET https://localhost:7272/ - 200 null application/json; charset=utf-8 52.1248ms
+2026-07-13 18:08:25 [INF] User profile is available. Using 'C:\Users\saiteja.anumala\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2026-07-13 18:08:25 [INF] Now listening on: https://localhost:7272
+2026-07-13 18:08:25 [INF] Now listening on: http://localhost:5280
+2026-07-13 18:08:26 [INF] Application started. Press Ctrl+C to shut down.
+2026-07-13 18:08:26 [INF] Hosting environment: Development
+2026-07-13 18:08:26 [INF] Content root path: D:\DotNet\SMS
+2026-07-13 18:08:27 [INF] Request starting HTTP/2 GET https://localhost:7272/swagger/index.html - null null
+2026-07-13 18:08:27 [INF] Request finished HTTP/2 GET https://localhost:7272/swagger/index.html - 200 null text/html;charset=utf-8 195.0631ms
+2026-07-13 18:08:27 [INF] Request starting HTTP/2 GET https://localhost:7272/_framework/aspnetcore-browser-refresh.js - null null
+2026-07-13 18:08:27 [INF] Request starting HTTP/2 GET https://localhost:7272/_vs/browserLink - null null
+2026-07-13 18:08:27 [INF] Request finished HTTP/2 GET https://localhost:7272/_framework/aspnetcore-browser-refresh.js - 200 14911 application/javascript; charset=utf-8 7.185ms
+2026-07-13 18:08:27 [INF] Request finished HTTP/2 GET https://localhost:7272/_vs/browserLink - 200 null text/javascript; charset=UTF-8 35.5375ms
+2026-07-13 18:08:27 [INF] Request starting HTTP/2 GET https://localhost:7272/swagger/v1/swagger.json - null null
+2026-07-13 18:08:27 [INF] Request finished HTTP/2 GET https://localhost:7272/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 25.2697ms
+2026-07-13 18:08:35 [INF] Request starting HTTP/2 GET https://localhost:7272/swagger/v2/swagger.json - null null
+2026-07-13 18:08:35 [INF] Request finished HTTP/2 GET https://localhost:7272/swagger/v2/swagger.json - 200 null application/json;charset=utf-8 9.7565ms
+2026-07-13 18:08:41 [INF] Request starting HTTP/2 GET https://localhost:7272/api/v2/students - null null
+2026-07-13 18:08:41 [INF] Authorization failed. These requirements were not met:
+RolesAuthorizationRequirement:User.IsInRole must be true for one of the following roles: (ADMIN|STAFF)
+2026-07-13 18:08:41 [INF] AuthenticationScheme: Bearer was challenged.
+2026-07-13 18:08:41 [INF] Request finished HTTP/2 GET https://localhost:7272/api/v2/students - 401 0 null 44.9911ms
+2026-07-13 18:08:47 [INF] Request starting HTTP/2 GET https://localhost:7272/swagger/v1/swagger.json - null null
+2026-07-13 18:08:47 [INF] Request finished HTTP/2 GET https://localhost:7272/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 11.1654ms
+2026-07-13 19:17:33 [INF] User profile is available. Using 'C:\Users\saiteja.anumala\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2026-07-13 19:17:33 [INF] Now listening on: https://localhost:7272
+2026-07-13 19:17:33 [INF] Now listening on: http://localhost:5280
+2026-07-13 19:17:33 [INF] Application started. Press Ctrl+C to shut down.
+2026-07-13 19:17:33 [INF] Hosting environment: Development
+2026-07-13 19:17:33 [INF] Content root path: D:\DotNet\SMS
+2026-07-13 19:17:34 [INF] Request starting HTTP/2 GET https://localhost:7272/swagger/index.html - null null
+2026-07-13 19:17:34 [INF] Request finished HTTP/2 GET https://localhost:7272/swagger/index.html - 200 null text/html;charset=utf-8 185.8496ms
+2026-07-13 19:17:34 [INF] Request starting HTTP/2 GET https://localhost:7272/_vs/browserLink - null null
+2026-07-13 19:17:34 [INF] Request starting HTTP/2 GET https://localhost:7272/_framework/aspnetcore-browser-refresh.js - null null
+2026-07-13 19:17:34 [INF] Request finished HTTP/2 GET https://localhost:7272/_framework/aspnetcore-browser-refresh.js - 200 14911 application/javascript; charset=utf-8 11.6789ms
+2026-07-13 19:17:34 [INF] Request finished HTTP/2 GET https://localhost:7272/_vs/browserLink - 200 null text/javascript; charset=UTF-8 35.721ms
+2026-07-13 19:17:34 [INF] Request starting HTTP/2 GET https://localhost:7272/swagger/v1/swagger.json - null null
+2026-07-13 19:17:34 [INF] Request finished HTTP/2 GET https://localhost:7272/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 25.3078ms
+2026-07-13 19:18:02 [INF] User profile is available. Using 'C:\Users\saiteja.anumala\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2026-07-13 19:18:02 [INF] Now listening on: https://localhost:7272
+2026-07-13 19:18:02 [INF] Now listening on: http://localhost:5280
+2026-07-13 19:18:02 [INF] Application started. Press Ctrl+C to shut down.
+2026-07-13 19:18:02 [INF] Hosting environment: Development
+2026-07-13 19:18:02 [INF] Content root path: D:\DotNet\SMS
+2026-07-13 19:20:19 [INF] User profile is available. Using 'C:\Users\saiteja.anumala\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2026-07-13 19:20:19 [INF] Now listening on: https://localhost:7272
+2026-07-13 19:20:19 [INF] Now listening on: http://localhost:5280
+2026-07-13 19:20:19 [INF] Application started. Press Ctrl+C to shut down.
+2026-07-13 19:20:19 [INF] Hosting environment: Development
+2026-07-13 19:20:19 [INF] Content root path: D:\DotNet\SMS
+2026-07-13 19:20:20 [INF] Request starting HTTP/2 GET https://localhost:7272/swagger/index.html - null null
+2026-07-13 19:20:20 [INF] Request finished HTTP/2 GET https://localhost:7272/swagger/index.html - 200 null text/html;charset=utf-8 180.0777ms
+2026-07-13 19:20:20 [INF] Request starting HTTP/2 GET https://localhost:7272/_vs/browserLink - null null
+2026-07-13 19:20:20 [INF] Request starting HTTP/2 GET https://localhost:7272/_framework/aspnetcore-browser-refresh.js - null null
+2026-07-13 19:20:20 [INF] Request finished HTTP/2 GET https://localhost:7272/_framework/aspnetcore-browser-refresh.js - 200 14911 application/javascript; charset=utf-8 7.3408ms
+2026-07-13 19:20:20 [INF] Request finished HTTP/2 GET https://localhost:7272/_vs/browserLink - 200 null text/javascript; charset=UTF-8 28.5825ms
+2026-07-13 19:20:20 [INF] Request starting HTTP/2 GET https://localhost:7272/swagger/v1/swagger.json - null null
+2026-07-13 19:20:20 [INF] Request finished HTTP/2 GET https://localhost:7272/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 27.3651ms
+2026-07-13 19:20:26 [INF] Request starting HTTP/2 GET https://localhost:7272/swagger/v2/swagger.json - null null
+2026-07-13 19:20:26 [INF] Request finished HTTP/2 GET https://localhost:7272/swagger/v2/swagger.json - 200 null application/json;charset=utf-8 10.7781ms
+2026-07-13 19:20:29 [INF] Request starting HTTP/2 GET https://localhost:7272/swagger/v1/swagger.json - null null
+2026-07-13 19:20:29 [INF] Request finished HTTP/2 GET https://localhost:7272/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 12.7021ms
+2026-07-13 19:20:52 [INF] Request starting HTTP/2 POST https://localhost:7272/api/v1/auth/login - application/json 52
+2026-07-13 19:20:52 [INF] Executing endpoint 'AuthController.Login (SMS)'
+2026-07-13 19:20:52 [INF] Route matched with {action = "Login", controller = "Auth"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Login(SMS.DTOS.UserDtos.LoginRequestDTO) on controller AuthController (SMS).
+2026-07-13 19:20:53 [INF] Executed DbCommand (37ms) [Parameters=[@__username_0='?'], CommandType='"Text"', CommandTimeout='30']
+SELECT u.user_id, u.created_at, u.email, u.password_hash, u.role_id, u.status, u.username, r.role_id, r.role_name
+FROM users AS u
+INNER JOIN roles AS r ON u.role_id = r.role_id
+WHERE u.username = @__username_0
+LIMIT 1
+2026-07-13 19:20:53 [INF] Executing OkObjectResult, writing value of type 'SMS.DTOS.UserDtos.UserResponseDTO'.
+2026-07-13 19:20:53 [INF] Executed action AuthController.Login (SMS) in 995.3531ms
+2026-07-13 19:20:53 [INF] Executed endpoint 'AuthController.Login (SMS)'
+2026-07-13 19:20:53 [INF] Request finished HTTP/2 POST https://localhost:7272/api/v1/auth/login - 200 null application/json; charset=utf-8 1054.1871ms
+2026-07-13 19:21:15 [INF] Request starting HTTP/2 GET https://localhost:7272/api/v1/reports/attendance-summary - null null
+2026-07-13 19:21:15 [INF] Executing endpoint 'ReportController.AttendanceSummary (SMS)'
+2026-07-13 19:21:15 [INF] Route matched with {action = "AttendanceSummary", controller = "Report"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] AttendanceSummary() on controller ReportController (SMS).
+2026-07-13 19:21:15 [INF] Executed DbCommand (3ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT a.attendance_id, a.attendance_date, a.course_id, a.marked_by, a.status, a.student_id
+FROM attendance AS a
+2026-07-13 19:21:15 [INF] Executing OkObjectResult, writing value of type '<>f__AnonymousType6`3[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2026-07-13 19:21:15 [INF] Executed action ReportController.AttendanceSummary (SMS) in 31.2778ms
+2026-07-13 19:21:15 [INF] Executed endpoint 'ReportController.AttendanceSummary (SMS)'
+2026-07-13 19:21:15 [INF] Request finished HTTP/2 GET https://localhost:7272/api/v1/reports/attendance-summary - 200 null application/json; charset=utf-8 67.884ms
+2026-07-13 19:21:26 [INF] Request starting HTTP/2 GET https://localhost:7272/api/v1/reports/fee-dues - null null
+2026-07-13 19:21:26 [INF] Executing endpoint 'ReportController.FeeDueReport (SMS)'
+2026-07-13 19:21:26 [INF] Route matched with {action = "FeeDueReport", controller = "Report"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] FeeDueReport() on controller ReportController (SMS).
+2026-07-13 19:21:26 [INF] Executed DbCommand (3ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT f.fee_id, f.amount, f.created_at, f.due_date, f.fee_type, f.paid_amount, f.status, f.student_id
+FROM fees AS f
+2026-07-13 19:21:26 [INF] Executing OkObjectResult, writing value of type '<>f__AnonymousType7`3[[System.Decimal, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.Decimal, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.Decimal, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2026-07-13 19:21:26 [INF] Executed action ReportController.FeeDueReport (SMS) in 66.6949ms
+2026-07-13 19:21:26 [INF] Executed endpoint 'ReportController.FeeDueReport (SMS)'
+2026-07-13 19:21:26 [INF] Request finished HTTP/2 GET https://localhost:7272/api/v1/reports/fee-dues - 200 null application/json; charset=utf-8 78.3851ms
+2026-07-13 19:21:35 [INF] Request starting HTTP/2 GET https://localhost:7272/api/v1/reports/performance-summary - null null
+2026-07-13 19:21:35 [INF] Executing endpoint 'ReportController.PerformanceSummary (SMS)'
+2026-07-13 19:21:35 [INF] Route matched with {action = "PerformanceSummary", controller = "Report"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] PerformanceSummary() on controller ReportController (SMS).
+2026-07-13 19:21:35 [INF] Executed DbCommand (3ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT r.result_id, r.exam_id, r.grade, r.marks_obtained, r.published_at, r.remarks, r.student_id
+FROM results AS r
+2026-07-13 19:21:35 [INF] Executing OkObjectResult, writing value of type '<>f__AnonymousType8`2[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.Double, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2026-07-13 19:21:35 [INF] Executed action ReportController.PerformanceSummary (SMS) in 22.4432ms
+2026-07-13 19:21:35 [INF] Executed endpoint 'ReportController.PerformanceSummary (SMS)'
+2026-07-13 19:21:35 [INF] Request finished HTTP/2 GET https://localhost:7272/api/v1/reports/performance-summary - 200 null application/json; charset=utf-8 32.1992ms
+2026-07-13 19:23:17 [INF] Request starting HTTP/2 GET https://localhost:7272/api/v1/attendance/student/1 - null null
+2026-07-13 19:23:17 [INF] Executing endpoint 'AttendanceController.GetStudentAttendance (SMS)'
+2026-07-13 19:23:17 [INF] Route matched with {action = "GetStudentAttendance", controller = "Attendance"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetStudentAttendance(Int32) on controller AttendanceController (SMS).
+2026-07-13 19:23:17 [INF] Executed DbCommand (2ms) [Parameters=[@__studentId_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT a.attendance_id, a.attendance_date, a.course_id, a.marked_by, a.status, a.student_id
+FROM attendance AS a
+WHERE a.student_id = @__studentId_0
+2026-07-13 19:23:17 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[SMS.DTOS.AttendancedDtos.AttendanceResponseDTO, SMS, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-07-13 19:23:17 [INF] Executed action AttendanceController.GetStudentAttendance (SMS) in 14.4922ms
+2026-07-13 19:23:17 [INF] Executed endpoint 'AttendanceController.GetStudentAttendance (SMS)'
+2026-07-13 19:23:17 [INF] Request finished HTTP/2 GET https://localhost:7272/api/v1/attendance/student/1 - 200 null application/json; charset=utf-8 29.206ms
+2026-07-13 19:40:20 [INF] User profile is available. Using 'C:\Users\saiteja.anumala\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2026-07-13 19:40:20 [INF] Now listening on: https://localhost:7272
+2026-07-13 19:40:20 [INF] Now listening on: http://localhost:5280
+2026-07-13 19:40:20 [INF] Application started. Press Ctrl+C to shut down.
+2026-07-13 19:40:20 [INF] Hosting environment: Development
+2026-07-13 19:40:20 [INF] Content root path: D:\DotNet\SMS
+2026-07-13 19:40:21 [INF] Request starting HTTP/2 GET https://localhost:7272/swagger/index.html - null null
+2026-07-13 19:40:21 [INF] Request finished HTTP/2 GET https://localhost:7272/swagger/index.html - 200 null text/html;charset=utf-8 192.2979ms
+2026-07-13 19:40:21 [INF] Request starting HTTP/2 GET https://localhost:7272/_vs/browserLink - null null
+2026-07-13 19:40:21 [INF] Request starting HTTP/2 GET https://localhost:7272/_framework/aspnetcore-browser-refresh.js - null null
+2026-07-13 19:40:21 [INF] Request finished HTTP/2 GET https://localhost:7272/_framework/aspnetcore-browser-refresh.js - 200 14911 application/javascript; charset=utf-8 8.6959ms
+2026-07-13 19:40:21 [INF] Request finished HTTP/2 GET https://localhost:7272/_vs/browserLink - 200 null text/javascript; charset=UTF-8 32.0181ms
+2026-07-13 19:40:21 [INF] Request starting HTTP/2 GET https://localhost:7272/swagger/v1/swagger.json - null null
+2026-07-13 19:40:21 [INF] Request finished HTTP/2 GET https://localhost:7272/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 21.8646ms
+2026-07-13 19:40:29 [INF] Request starting HTTP/2 GET https://localhost:7272/api/v1/students - null null
+2026-07-13 19:40:29 [INF] Authorization failed. These requirements were not met:
+RolesAuthorizationRequirement:User.IsInRole must be true for one of the following roles: (ADMIN|STAFF)
+2026-07-13 19:40:29 [INF] AuthenticationScheme: Bearer was challenged.
+2026-07-13 19:40:29 [INF] Request finished HTTP/2 GET https://localhost:7272/api/v1/students - 401 0 null 49.3488ms
+2026-07-13 19:41:06 [INF] Request starting HTTP/2 POST https://localhost:7272/api/v1/auth/login - application/json 52
+2026-07-13 19:41:06 [INF] Executing endpoint 'AuthController.Login (SMS)'
+2026-07-13 19:41:06 [INF] Route matched with {action = "Login", controller = "Auth"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Login(SMS.DTOS.UserDtos.LoginRequestDTO) on controller AuthController (SMS).
+2026-07-13 19:41:06 [INF] Executed DbCommand (37ms) [Parameters=[@__username_0='?'], CommandType='"Text"', CommandTimeout='30']
+SELECT u.user_id, u.created_at, u.email, u.password_hash, u.role_id, u.status, u.username, r.role_id, r.role_name
+FROM users AS u
+INNER JOIN roles AS r ON u.role_id = r.role_id
+WHERE u.username = @__username_0
+LIMIT 1
+2026-07-13 19:41:07 [INF] Executing OkObjectResult, writing value of type 'SMS.DTOS.UserDtos.UserResponseDTO'.
+2026-07-13 19:41:07 [INF] Executed action AuthController.Login (SMS) in 983.0571ms
+2026-07-13 19:41:07 [INF] Executed endpoint 'AuthController.Login (SMS)'
+2026-07-13 19:41:07 [INF] Request finished HTTP/2 POST https://localhost:7272/api/v1/auth/login - 200 null application/json; charset=utf-8 1014.8953ms
+2026-07-13 19:41:28 [INF] Request starting HTTP/2 GET https://localhost:7272/api/v1/students - null null
+2026-07-13 19:41:28 [INF] Executing endpoint 'StudentController.GetAllStudents (SMS)'
+2026-07-13 19:41:28 [INF] Route matched with {action = "GetAllStudents", controller = "Student"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllStudents() on controller StudentController (SMS).
+2026-07-13 19:41:28 [INF] Executed DbCommand (8ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT s.student_id, s.address, s.admission_date, s.class_id, s.dob, s.email, s.first_name, s.gender, s.last_name, s.phone, s.status, s.student_code, s.user_id, c.class_id, c.class_name, c.department_id, c.section_name
+FROM students AS s
+LEFT JOIN classes AS c ON s.class_id = c.class_id
+2026-07-13 19:41:28 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[SMS.DTOS.StudentDtos.StudentResponseDTO, SMS, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-07-13 19:41:28 [INF] Executed action StudentController.GetAllStudents (SMS) in 58.7626ms
+2026-07-13 19:41:28 [INF] Executed endpoint 'StudentController.GetAllStudents (SMS)'
+2026-07-13 19:41:28 [INF] Request finished HTTP/2 GET https://localhost:7272/api/v1/students - 200 null application/json; charset=utf-8 89.8911ms
+2026-07-13 19:41:30 [INF] Request starting HTTP/2 GET https://localhost:7272/api/v1/students - null null
+2026-07-13 19:41:30 [INF] Executing endpoint 'StudentController.GetAllStudents (SMS)'
+2026-07-13 19:41:30 [INF] Route matched with {action = "GetAllStudents", controller = "Student"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllStudents() on controller StudentController (SMS).
+2026-07-13 19:41:30 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT s.student_id, s.address, s.admission_date, s.class_id, s.dob, s.email, s.first_name, s.gender, s.last_name, s.phone, s.status, s.student_code, s.user_id, c.class_id, c.class_name, c.department_id, c.section_name
+FROM students AS s
+LEFT JOIN classes AS c ON s.class_id = c.class_id
+2026-07-13 19:41:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[SMS.DTOS.StudentDtos.StudentResponseDTO, SMS, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-07-13 19:41:30 [INF] Executed action StudentController.GetAllStudents (SMS) in 43.0873ms
+2026-07-13 19:41:30 [INF] Executed endpoint 'StudentController.GetAllStudents (SMS)'
+2026-07-13 19:41:30 [INF] Request finished HTTP/2 GET https://localhost:7272/api/v1/students - 200 null application/json; charset=utf-8 50.1093ms
+2026-07-13 19:41:31 [INF] Request starting HTTP/2 GET https://localhost:7272/api/v1/students - null null
+2026-07-13 19:41:31 [INF] Executing endpoint 'StudentController.GetAllStudents (SMS)'
+2026-07-13 19:41:31 [INF] Route matched with {action = "GetAllStudents", controller = "Student"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllStudents() on controller StudentController (SMS).
+2026-07-13 19:41:31 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT s.student_id, s.address, s.admission_date, s.class_id, s.dob, s.email, s.first_name, s.gender, s.last_name, s.phone, s.status, s.student_code, s.user_id, c.class_id, c.class_name, c.department_id, c.section_name
+FROM students AS s
+LEFT JOIN classes AS c ON s.class_id = c.class_id
+2026-07-13 19:41:31 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[SMS.DTOS.StudentDtos.StudentResponseDTO, SMS, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-07-13 19:41:31 [INF] Executed action StudentController.GetAllStudents (SMS) in 9.6737ms
+2026-07-13 19:41:31 [INF] Executed endpoint 'StudentController.GetAllStudents (SMS)'
+2026-07-13 19:41:31 [INF] Request finished HTTP/2 GET https://localhost:7272/api/v1/students - 200 null application/json; charset=utf-8 19.2685ms
+2026-07-13 19:41:32 [INF] Request starting HTTP/2 GET https://localhost:7272/api/v1/students - null null
+2026-07-13 19:41:32 [INF] Executing endpoint 'StudentController.GetAllStudents (SMS)'
+2026-07-13 19:41:32 [INF] Route matched with {action = "GetAllStudents", controller = "Student"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllStudents() on controller StudentController (SMS).
+2026-07-13 19:41:32 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT s.student_id, s.address, s.admission_date, s.class_id, s.dob, s.email, s.first_name, s.gender, s.last_name, s.phone, s.status, s.student_code, s.user_id, c.class_id, c.class_name, c.department_id, c.section_name
+FROM students AS s
+LEFT JOIN classes AS c ON s.class_id = c.class_id
+2026-07-13 19:41:32 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[SMS.DTOS.StudentDtos.StudentResponseDTO, SMS, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-07-13 19:41:32 [INF] Executed action StudentController.GetAllStudents (SMS) in 6.9713ms
+2026-07-13 19:41:32 [INF] Executed endpoint 'StudentController.GetAllStudents (SMS)'
+2026-07-13 19:41:32 [INF] Request finished HTTP/2 GET https://localhost:7272/api/v1/students - 200 null application/json; charset=utf-8 13.146ms
+2026-07-13 19:41:32 [INF] Request starting HTTP/2 GET https://localhost:7272/api/v1/students - null null
+2026-07-13 19:41:32 [INF] Executing endpoint 'StudentController.GetAllStudents (SMS)'
+2026-07-13 19:41:32 [INF] Route matched with {action = "GetAllStudents", controller = "Student"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllStudents() on controller StudentController (SMS).
+2026-07-13 19:41:32 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT s.student_id, s.address, s.admission_date, s.class_id, s.dob, s.email, s.first_name, s.gender, s.last_name, s.phone, s.status, s.student_code, s.user_id, c.class_id, c.class_name, c.department_id, c.section_name
+FROM students AS s
+LEFT JOIN classes AS c ON s.class_id = c.class_id
+2026-07-13 19:41:32 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[SMS.DTOS.StudentDtos.StudentResponseDTO, SMS, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-07-13 19:41:32 [INF] Executed action StudentController.GetAllStudents (SMS) in 7.1333ms
+2026-07-13 19:41:32 [INF] Executed endpoint 'StudentController.GetAllStudents (SMS)'
+2026-07-13 19:41:32 [INF] Request finished HTTP/2 GET https://localhost:7272/api/v1/students - 200 null application/json; charset=utf-8 12.8591ms
+2026-07-13 19:41:33 [INF] Request starting HTTP/2 GET https://localhost:7272/api/v1/students - null null
+2026-07-13 19:41:38 [INF] Executing endpoint 'StudentController.GetAllStudents (SMS)'
+2026-07-13 19:41:38 [INF] Route matched with {action = "GetAllStudents", controller = "Student"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllStudents() on controller StudentController (SMS).
+2026-07-13 19:41:38 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT s.student_id, s.address, s.admission_date, s.class_id, s.dob, s.email, s.first_name, s.gender, s.last_name, s.phone, s.status, s.student_code, s.user_id, c.class_id, c.class_name, c.department_id, c.section_name
+FROM students AS s
+LEFT JOIN classes AS c ON s.class_id = c.class_id
+2026-07-13 19:41:38 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[SMS.DTOS.StudentDtos.StudentResponseDTO, SMS, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-07-13 19:41:38 [INF] Executed action StudentController.GetAllStudents (SMS) in 5.7193ms
+2026-07-13 19:41:38 [INF] Executed endpoint 'StudentController.GetAllStudents (SMS)'
+2026-07-13 19:41:38 [INF] Request finished HTTP/2 GET https://localhost:7272/api/v1/students - 200 null application/json; charset=utf-8 4812.0402ms
+2026-07-13 19:41:47 [INF] Request starting HTTP/2 GET https://localhost:7272/api/v1/students - null null
+2026-07-13 19:41:47 [INF] Executing endpoint 'StudentController.GetAllStudents (SMS)'
+2026-07-13 19:41:47 [INF] Route matched with {action = "GetAllStudents", controller = "Student"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllStudents() on controller StudentController (SMS).
+2026-07-13 19:41:47 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT s.student_id, s.address, s.admission_date, s.class_id, s.dob, s.email, s.first_name, s.gender, s.last_name, s.phone, s.status, s.student_code, s.user_id, c.class_id, c.class_name, c.department_id, c.section_name
+FROM students AS s
+LEFT JOIN classes AS c ON s.class_id = c.class_id
+2026-07-13 19:41:47 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[SMS.DTOS.StudentDtos.StudentResponseDTO, SMS, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-07-13 19:41:47 [INF] Executed action StudentController.GetAllStudents (SMS) in 6.5536ms
+2026-07-13 19:41:47 [INF] Executed endpoint 'StudentController.GetAllStudents (SMS)'
+2026-07-13 19:41:47 [INF] Request finished HTTP/2 GET https://localhost:7272/api/v1/students - 200 null application/json; charset=utf-8 13.7529ms
+2026-07-13 19:41:48 [INF] Request starting HTTP/2 GET https://localhost:7272/api/v1/students - null null
+2026-07-13 19:41:48 [INF] Executing endpoint 'StudentController.GetAllStudents (SMS)'
+2026-07-13 19:41:48 [INF] Route matched with {action = "GetAllStudents", controller = "Student"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllStudents() on controller StudentController (SMS).
+2026-07-13 19:41:48 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT s.student_id, s.address, s.admission_date, s.class_id, s.dob, s.email, s.first_name, s.gender, s.last_name, s.phone, s.status, s.student_code, s.user_id, c.class_id, c.class_name, c.department_id, c.section_name
+FROM students AS s
+LEFT JOIN classes AS c ON s.class_id = c.class_id
+2026-07-13 19:41:48 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[SMS.DTOS.StudentDtos.StudentResponseDTO, SMS, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-07-13 19:41:48 [INF] Executed action StudentController.GetAllStudents (SMS) in 8.19ms
+2026-07-13 19:41:48 [INF] Executed endpoint 'StudentController.GetAllStudents (SMS)'
+2026-07-13 19:41:48 [INF] Request finished HTTP/2 GET https://localhost:7272/api/v1/students - 200 null application/json; charset=utf-8 17.588ms
+2026-07-13 19:41:49 [INF] Request starting HTTP/2 GET https://localhost:7272/api/v1/students - null null
+2026-07-13 19:41:49 [INF] Executing endpoint 'StudentController.GetAllStudents (SMS)'
+2026-07-13 19:41:49 [INF] Route matched with {action = "GetAllStudents", controller = "Student"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllStudents() on controller StudentController (SMS).
+2026-07-13 19:41:49 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT s.student_id, s.address, s.admission_date, s.class_id, s.dob, s.email, s.first_name, s.gender, s.last_name, s.phone, s.status, s.student_code, s.user_id, c.class_id, c.class_name, c.department_id, c.section_name
+FROM students AS s
+LEFT JOIN classes AS c ON s.class_id = c.class_id
+2026-07-13 19:41:49 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[SMS.DTOS.StudentDtos.StudentResponseDTO, SMS, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-07-13 19:41:49 [INF] Executed action StudentController.GetAllStudents (SMS) in 5.8425ms
+2026-07-13 19:41:49 [INF] Executed endpoint 'StudentController.GetAllStudents (SMS)'
+2026-07-13 19:41:49 [INF] Request finished HTTP/2 GET https://localhost:7272/api/v1/students - 200 null application/json; charset=utf-8 11.8357ms
+2026-07-13 19:41:49 [INF] Request starting HTTP/2 GET https://localhost:7272/api/v1/students - null null
+2026-07-13 19:41:49 [INF] Executing endpoint 'StudentController.GetAllStudents (SMS)'
+2026-07-13 19:41:49 [INF] Route matched with {action = "GetAllStudents", controller = "Student"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllStudents() on controller StudentController (SMS).
+2026-07-13 19:41:49 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT s.student_id, s.address, s.admission_date, s.class_id, s.dob, s.email, s.first_name, s.gender, s.last_name, s.phone, s.status, s.student_code, s.user_id, c.class_id, c.class_name, c.department_id, c.section_name
+FROM students AS s
+LEFT JOIN classes AS c ON s.class_id = c.class_id
+2026-07-13 19:41:49 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[SMS.DTOS.StudentDtos.StudentResponseDTO, SMS, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-07-13 19:41:49 [INF] Executed action StudentController.GetAllStudents (SMS) in 5.6676ms
+2026-07-13 19:41:49 [INF] Executed endpoint 'StudentController.GetAllStudents (SMS)'
+2026-07-13 19:41:49 [INF] Request finished HTTP/2 GET https://localhost:7272/api/v1/students - 200 null application/json; charset=utf-8 12.3293ms
+2026-07-13 19:41:50 [INF] Request starting HTTP/2 GET https://localhost:7272/api/v1/students - null null
+2026-07-13 19:41:50 [INF] Executing endpoint 'StudentController.GetAllStudents (SMS)'
+2026-07-13 19:41:50 [INF] Route matched with {action = "GetAllStudents", controller = "Student"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllStudents() on controller StudentController (SMS).
+2026-07-13 19:41:50 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT s.student_id, s.address, s.admission_date, s.class_id, s.dob, s.email, s.first_name, s.gender, s.last_name, s.phone, s.status, s.student_code, s.user_id, c.class_id, c.class_name, c.department_id, c.section_name
+FROM students AS s
+LEFT JOIN classes AS c ON s.class_id = c.class_id
+2026-07-13 19:41:50 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[SMS.DTOS.StudentDtos.StudentResponseDTO, SMS, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-07-13 19:41:50 [INF] Executed action StudentController.GetAllStudents (SMS) in 6.3048ms
+2026-07-13 19:41:50 [INF] Executed endpoint 'StudentController.GetAllStudents (SMS)'
+2026-07-13 19:41:50 [INF] Request finished HTTP/2 GET https://localhost:7272/api/v1/students - 200 null application/json; charset=utf-8 12.9558ms
+2026-07-13 19:41:50 [INF] Request starting HTTP/2 GET https://localhost:7272/api/v1/students - null null
+2026-07-13 19:41:51 [INF] Executing endpoint 'StudentController.GetAllStudents (SMS)'
+2026-07-13 19:41:51 [INF] Route matched with {action = "GetAllStudents", controller = "Student"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllStudents() on controller StudentController (SMS).
+2026-07-13 19:41:51 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT s.student_id, s.address, s.admission_date, s.class_id, s.dob, s.email, s.first_name, s.gender, s.last_name, s.phone, s.status, s.student_code, s.user_id, c.class_id, c.class_name, c.department_id, c.section_name
+FROM students AS s
+LEFT JOIN classes AS c ON s.class_id = c.class_id
+2026-07-13 19:41:51 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[SMS.DTOS.StudentDtos.StudentResponseDTO, SMS, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-07-13 19:41:51 [INF] Executed action StudentController.GetAllStudents (SMS) in 6.9771ms
+2026-07-13 19:41:51 [INF] Executed endpoint 'StudentController.GetAllStudents (SMS)'
+2026-07-13 19:41:51 [INF] Request finished HTTP/2 GET https://localhost:7272/api/v1/students - 200 null application/json; charset=utf-8 12.8125ms
+2026-07-13 19:41:51 [INF] Request starting HTTP/2 GET https://localhost:7272/api/v1/students - null null
+2026-07-13 19:41:58 [INF] Executing endpoint 'StudentController.GetAllStudents (SMS)'
+2026-07-13 19:41:58 [INF] Route matched with {action = "GetAllStudents", controller = "Student"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllStudents() on controller StudentController (SMS).
+2026-07-13 19:41:58 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT s.student_id, s.address, s.admission_date, s.class_id, s.dob, s.email, s.first_name, s.gender, s.last_name, s.phone, s.status, s.student_code, s.user_id, c.class_id, c.class_name, c.department_id, c.section_name
+FROM students AS s
+LEFT JOIN classes AS c ON s.class_id = c.class_id
+2026-07-13 19:41:58 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[SMS.DTOS.StudentDtos.StudentResponseDTO, SMS, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-07-13 19:41:58 [INF] Executed action StudentController.GetAllStudents (SMS) in 7.3869ms
+2026-07-13 19:41:58 [INF] Executed endpoint 'StudentController.GetAllStudents (SMS)'
+2026-07-13 19:41:58 [INF] Request finished HTTP/2 GET https://localhost:7272/api/v1/students - 200 null application/json; charset=utf-8 6952.319ms
+2026-07-13 19:52:23 [INF] Request starting HTTP/2 GET https://localhost:7272/api/v1/students - null null
+2026-07-13 19:52:23 [INF] Executing endpoint 'StudentController.GetAllStudents (SMS)'
+2026-07-13 19:52:23 [INF] Route matched with {action = "GetAllStudents", controller = "Student"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllStudents() on controller StudentController (SMS).
+2026-07-13 19:52:23 [INF] Executed DbCommand (3ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT s.student_id, s.address, s.admission_date, s.class_id, s.dob, s.email, s.first_name, s.gender, s.last_name, s.phone, s.status, s.student_code, s.user_id, c.class_id, c.class_name, c.department_id, c.section_name
+FROM students AS s
+LEFT JOIN classes AS c ON s.class_id = c.class_id
+2026-07-13 19:52:23 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[SMS.DTOS.StudentDtos.StudentResponseDTO, SMS, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-07-13 19:52:23 [INF] Executed action StudentController.GetAllStudents (SMS) in 75.9391ms
+2026-07-13 19:52:23 [INF] Executed endpoint 'StudentController.GetAllStudents (SMS)'
+2026-07-13 19:52:23 [INF] Request finished HTTP/2 GET https://localhost:7272/api/v1/students - 200 null application/json; charset=utf-8 88.7274ms
+2026-07-13 19:52:24 [INF] Request starting HTTP/2 GET https://localhost:7272/api/v1/students - null null
+2026-07-13 19:52:24 [INF] Executing endpoint 'StudentController.GetAllStudents (SMS)'
+2026-07-13 19:52:24 [INF] Route matched with {action = "GetAllStudents", controller = "Student"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllStudents() on controller StudentController (SMS).
+2026-07-13 19:52:24 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT s.student_id, s.address, s.admission_date, s.class_id, s.dob, s.email, s.first_name, s.gender, s.last_name, s.phone, s.status, s.student_code, s.user_id, c.class_id, c.class_name, c.department_id, c.section_name
+FROM students AS s
+LEFT JOIN classes AS c ON s.class_id = c.class_id
+2026-07-13 19:52:24 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[SMS.DTOS.StudentDtos.StudentResponseDTO, SMS, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-07-13 19:52:24 [INF] Executed action StudentController.GetAllStudents (SMS) in 6.005ms
+2026-07-13 19:52:24 [INF] Executed endpoint 'StudentController.GetAllStudents (SMS)'
+2026-07-13 19:52:24 [INF] Request finished HTTP/2 GET https://localhost:7272/api/v1/students - 200 null application/json; charset=utf-8 11.8007ms
+2026-07-13 19:52:25 [INF] Request starting HTTP/2 GET https://localhost:7272/api/v1/students - null null
+2026-07-13 19:52:25 [INF] Executing endpoint 'StudentController.GetAllStudents (SMS)'
+2026-07-13 19:52:25 [INF] Route matched with {action = "GetAllStudents", controller = "Student"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllStudents() on controller StudentController (SMS).
+2026-07-13 19:52:25 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT s.student_id, s.address, s.admission_date, s.class_id, s.dob, s.email, s.first_name, s.gender, s.last_name, s.phone, s.status, s.student_code, s.user_id, c.class_id, c.class_name, c.department_id, c.section_name
+FROM students AS s
+LEFT JOIN classes AS c ON s.class_id = c.class_id
+2026-07-13 19:52:25 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[SMS.DTOS.StudentDtos.StudentResponseDTO, SMS, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-07-13 19:52:25 [INF] Executed action StudentController.GetAllStudents (SMS) in 5.534ms
+2026-07-13 19:52:25 [INF] Executed endpoint 'StudentController.GetAllStudents (SMS)'
+2026-07-13 19:52:25 [INF] Request finished HTTP/2 GET https://localhost:7272/api/v1/students - 200 null application/json; charset=utf-8 11.1371ms
+2026-07-13 19:52:26 [INF] Request starting HTTP/2 GET https://localhost:7272/api/v1/students - null null
+2026-07-13 19:52:26 [INF] Executing endpoint 'StudentController.GetAllStudents (SMS)'
+2026-07-13 19:52:26 [INF] Route matched with {action = "GetAllStudents", controller = "Student"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllStudents() on controller StudentController (SMS).
+2026-07-13 19:52:26 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT s.student_id, s.address, s.admission_date, s.class_id, s.dob, s.email, s.first_name, s.gender, s.last_name, s.phone, s.status, s.student_code, s.user_id, c.class_id, c.class_name, c.department_id, c.section_name
+FROM students AS s
+LEFT JOIN classes AS c ON s.class_id = c.class_id
+2026-07-13 19:52:26 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[SMS.DTOS.StudentDtos.StudentResponseDTO, SMS, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-07-13 19:52:26 [INF] Executed action StudentController.GetAllStudents (SMS) in 7.024ms
+2026-07-13 19:52:26 [INF] Executed endpoint 'StudentController.GetAllStudents (SMS)'
+2026-07-13 19:52:26 [INF] Request finished HTTP/2 GET https://localhost:7272/api/v1/students - 200 null application/json; charset=utf-8 14.6122ms
+2026-07-13 19:52:27 [INF] Request starting HTTP/2 GET https://localhost:7272/api/v1/students - null null
+2026-07-13 19:52:27 [INF] Executing endpoint 'StudentController.GetAllStudents (SMS)'
+2026-07-13 19:52:27 [INF] Route matched with {action = "GetAllStudents", controller = "Student"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllStudents() on controller StudentController (SMS).
+2026-07-13 19:52:27 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT s.student_id, s.address, s.admission_date, s.class_id, s.dob, s.email, s.first_name, s.gender, s.last_name, s.phone, s.status, s.student_code, s.user_id, c.class_id, c.class_name, c.department_id, c.section_name
+FROM students AS s
+LEFT JOIN classes AS c ON s.class_id = c.class_id
+2026-07-13 19:52:27 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[SMS.DTOS.StudentDtos.StudentResponseDTO, SMS, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-07-13 19:52:27 [INF] Executed action StudentController.GetAllStudents (SMS) in 5.8639ms
+2026-07-13 19:52:27 [INF] Executed endpoint 'StudentController.GetAllStudents (SMS)'
+2026-07-13 19:52:27 [INF] Request finished HTTP/2 GET https://localhost:7272/api/v1/students - 200 null application/json; charset=utf-8 11.9598ms
+2026-07-13 19:52:28 [INF] Request starting HTTP/2 GET https://localhost:7272/api/v1/students - null null
+2026-07-13 19:52:33 [INF] Executing endpoint 'StudentController.GetAllStudents (SMS)'
+2026-07-13 19:52:33 [INF] Route matched with {action = "GetAllStudents", controller = "Student"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllStudents() on controller StudentController (SMS).
+2026-07-13 19:52:33 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT s.student_id, s.address, s.admission_date, s.class_id, s.dob, s.email, s.first_name, s.gender, s.last_name, s.phone, s.status, s.student_code, s.user_id, c.class_id, c.class_name, c.department_id, c.section_name
+FROM students AS s
+LEFT JOIN classes AS c ON s.class_id = c.class_id
+2026-07-13 19:52:33 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[SMS.DTOS.StudentDtos.StudentResponseDTO, SMS, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-07-13 19:52:33 [INF] Executed action StudentController.GetAllStudents (SMS) in 5.2724ms
+2026-07-13 19:52:33 [INF] Executed endpoint 'StudentController.GetAllStudents (SMS)'
+2026-07-13 19:52:33 [INF] Request finished HTTP/2 GET https://localhost:7272/api/v1/students - 200 null application/json; charset=utf-8 5649.2778ms
+2026-07-13 19:52:47 [INF] Request starting HTTP/2 GET https://localhost:7272/api/v1/students/1 - null null
+2026-07-13 19:52:47 [INF] Executing endpoint 'StudentController.GetStudent (SMS)'
+2026-07-13 19:52:47 [INF] Route matched with {action = "GetStudent", controller = "Student"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetStudent(Int32) on controller StudentController (SMS).
+2026-07-13 19:52:47 [INF] Executed DbCommand (2ms) [Parameters=[@__studentId_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT s.student_id, s.address, s.admission_date, s.class_id, s.dob, s.email, s.first_name, s.gender, s.last_name, s.phone, s.status, s.student_code, s.user_id, c.class_id, c.class_name, c.department_id, c.section_name
+FROM students AS s
+LEFT JOIN classes AS c ON s.class_id = c.class_id
+WHERE s.student_id = @__studentId_0
+LIMIT 1
+2026-07-13 19:52:47 [INF] Executing OkObjectResult, writing value of type 'SMS.DTOS.StudentDtos.StudentResponseDTO'.
+2026-07-13 19:52:47 [INF] Executed action StudentController.GetStudent (SMS) in 13.0302ms
+2026-07-13 19:52:47 [INF] Executed endpoint 'StudentController.GetStudent (SMS)'
+2026-07-13 19:52:47 [INF] Request finished HTTP/2 GET https://localhost:7272/api/v1/students/1 - 200 null application/json; charset=utf-8 25.5479ms
+2026-07-13 19:52:51 [INF] Request starting HTTP/2 GET https://localhost:7272/api/v1/students/2 - null null
+2026-07-13 19:52:51 [INF] Executing endpoint 'StudentController.GetStudent (SMS)'
+2026-07-13 19:52:51 [INF] Route matched with {action = "GetStudent", controller = "Student"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetStudent(Int32) on controller StudentController (SMS).
+2026-07-13 19:52:51 [INF] Executed DbCommand (1ms) [Parameters=[@__studentId_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT s.student_id, s.address, s.admission_date, s.class_id, s.dob, s.email, s.first_name, s.gender, s.last_name, s.phone, s.status, s.student_code, s.user_id, c.class_id, c.class_name, c.department_id, c.section_name
+FROM students AS s
+LEFT JOIN classes AS c ON s.class_id = c.class_id
+WHERE s.student_id = @__studentId_0
+LIMIT 1
+2026-07-13 19:52:51 [INF] Executing OkObjectResult, writing value of type 'SMS.DTOS.StudentDtos.StudentResponseDTO'.
+2026-07-13 19:52:51 [INF] Executed action StudentController.GetStudent (SMS) in 7.3299ms
+2026-07-13 19:52:51 [INF] Executed endpoint 'StudentController.GetStudent (SMS)'
+2026-07-13 19:52:51 [INF] Request finished HTTP/2 GET https://localhost:7272/api/v1/students/2 - 200 null application/json; charset=utf-8 13.7163ms
+2026-07-13 19:52:54 [INF] Request starting HTTP/2 GET https://localhost:7272/api/v1/students/3 - null null
+2026-07-13 19:52:54 [INF] Executing endpoint 'StudentController.GetStudent (SMS)'
+2026-07-13 19:52:54 [INF] Route matched with {action = "GetStudent", controller = "Student"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetStudent(Int32) on controller StudentController (SMS).
+2026-07-13 19:52:54 [INF] Executed DbCommand (1ms) [Parameters=[@__studentId_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT s.student_id, s.address, s.admission_date, s.class_id, s.dob, s.email, s.first_name, s.gender, s.last_name, s.phone, s.status, s.student_code, s.user_id, c.class_id, c.class_name, c.department_id, c.section_name
+FROM students AS s
+LEFT JOIN classes AS c ON s.class_id = c.class_id
+WHERE s.student_id = @__studentId_0
+LIMIT 1
+2026-07-13 19:52:54 [INF] Executing OkObjectResult, writing value of type 'null'.
+2026-07-13 19:52:54 [INF] Executed action StudentController.GetStudent (SMS) in 5.6097ms
+2026-07-13 19:52:54 [INF] Executed endpoint 'StudentController.GetStudent (SMS)'
+2026-07-13 19:52:54 [INF] Request finished HTTP/2 GET https://localhost:7272/api/v1/students/3 - 204 null null 10.9263ms
+2026-07-13 19:52:57 [INF] Request starting HTTP/2 GET https://localhost:7272/api/v1/students/4 - null null
+2026-07-13 19:52:57 [INF] Executing endpoint 'StudentController.GetStudent (SMS)'
+2026-07-13 19:52:57 [INF] Route matched with {action = "GetStudent", controller = "Student"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetStudent(Int32) on controller StudentController (SMS).
+2026-07-13 19:52:57 [INF] Executed DbCommand (1ms) [Parameters=[@__studentId_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT s.student_id, s.address, s.admission_date, s.class_id, s.dob, s.email, s.first_name, s.gender, s.last_name, s.phone, s.status, s.student_code, s.user_id, c.class_id, c.class_name, c.department_id, c.section_name
+FROM students AS s
+LEFT JOIN classes AS c ON s.class_id = c.class_id
+WHERE s.student_id = @__studentId_0
+LIMIT 1
+2026-07-13 19:52:57 [INF] Executing OkObjectResult, writing value of type 'SMS.DTOS.StudentDtos.StudentResponseDTO'.
+2026-07-13 19:52:57 [INF] Executed action StudentController.GetStudent (SMS) in 5.5236ms
+2026-07-13 19:52:57 [INF] Executed endpoint 'StudentController.GetStudent (SMS)'
+2026-07-13 19:52:57 [INF] Request finished HTTP/2 GET https://localhost:7272/api/v1/students/4 - 200 null application/json; charset=utf-8 11.251ms
+2026-07-13 19:53:02 [INF] Request starting HTTP/2 GET https://localhost:7272/api/v1/students/5 - null null
+2026-07-13 19:53:02 [INF] Executing endpoint 'StudentController.GetStudent (SMS)'
+2026-07-13 19:53:02 [INF] Route matched with {action = "GetStudent", controller = "Student"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetStudent(Int32) on controller StudentController (SMS).
+2026-07-13 19:53:02 [INF] Executed DbCommand (1ms) [Parameters=[@__studentId_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT s.student_id, s.address, s.admission_date, s.class_id, s.dob, s.email, s.first_name, s.gender, s.last_name, s.phone, s.status, s.student_code, s.user_id, c.class_id, c.class_name, c.department_id, c.section_name
+FROM students AS s
+LEFT JOIN classes AS c ON s.class_id = c.class_id
+WHERE s.student_id = @__studentId_0
+LIMIT 1
+2026-07-13 19:53:02 [INF] Executing OkObjectResult, writing value of type 'SMS.DTOS.StudentDtos.StudentResponseDTO'.
+2026-07-13 19:53:02 [INF] Executed action StudentController.GetStudent (SMS) in 5.2915ms
+2026-07-13 19:53:02 [INF] Executed endpoint 'StudentController.GetStudent (SMS)'
+2026-07-13 19:53:02 [INF] Request finished HTTP/2 GET https://localhost:7272/api/v1/students/5 - 200 null application/json; charset=utf-8 11.5403ms
+2026-07-13 19:53:06 [INF] Request starting HTTP/2 GET https://localhost:7272/api/v1/students/6 - null null
+2026-07-13 19:53:06 [INF] Executing endpoint 'StudentController.GetStudent (SMS)'
+2026-07-13 19:53:06 [INF] Route matched with {action = "GetStudent", controller = "Student"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetStudent(Int32) on controller StudentController (SMS).
+2026-07-13 19:53:06 [INF] Executed DbCommand (1ms) [Parameters=[@__studentId_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT s.student_id, s.address, s.admission_date, s.class_id, s.dob, s.email, s.first_name, s.gender, s.last_name, s.phone, s.status, s.student_code, s.user_id, c.class_id, c.class_name, c.department_id, c.section_name
+FROM students AS s
+LEFT JOIN classes AS c ON s.class_id = c.class_id
+WHERE s.student_id = @__studentId_0
+LIMIT 1
+2026-07-13 19:53:06 [INF] Executing OkObjectResult, writing value of type 'SMS.DTOS.StudentDtos.StudentResponseDTO'.
+2026-07-13 19:53:06 [INF] Executed action StudentController.GetStudent (SMS) in 6.7739ms
+2026-07-13 19:53:06 [INF] Executed endpoint 'StudentController.GetStudent (SMS)'
+2026-07-13 19:53:06 [INF] Request finished HTTP/2 GET https://localhost:7272/api/v1/students/6 - 200 null application/json; charset=utf-8 12.4468ms
+2026-07-13 19:53:12 [INF] Request starting HTTP/2 GET https://localhost:7272/api/v1/students/7 - null null
+2026-07-13 19:53:12 [INF] Executing endpoint 'StudentController.GetStudent (SMS)'
+2026-07-13 19:53:12 [INF] Route matched with {action = "GetStudent", controller = "Student"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetStudent(Int32) on controller StudentController (SMS).
+2026-07-13 19:53:12 [INF] Executed DbCommand (1ms) [Parameters=[@__studentId_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT s.student_id, s.address, s.admission_date, s.class_id, s.dob, s.email, s.first_name, s.gender, s.last_name, s.phone, s.status, s.student_code, s.user_id, c.class_id, c.class_name, c.department_id, c.section_name
+FROM students AS s
+LEFT JOIN classes AS c ON s.class_id = c.class_id
+WHERE s.student_id = @__studentId_0
+LIMIT 1
+2026-07-13 19:53:12 [INF] Executing OkObjectResult, writing value of type 'SMS.DTOS.StudentDtos.StudentResponseDTO'.
+2026-07-13 19:53:12 [INF] Executed action StudentController.GetStudent (SMS) in 5.3302ms
+2026-07-13 19:53:12 [INF] Executed endpoint 'StudentController.GetStudent (SMS)'
+2026-07-13 19:53:12 [INF] Request finished HTTP/2 GET https://localhost:7272/api/v1/students/7 - 200 null application/json; charset=utf-8 11.1757ms
+2026-07-13 19:53:18 [INF] Request starting HTTP/2 GET https://localhost:7272/api/v1/students/9 - null null
+2026-07-13 19:53:18 [INF] Executing endpoint 'StudentController.GetStudent (SMS)'
+2026-07-13 19:53:18 [INF] Route matched with {action = "GetStudent", controller = "Student"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetStudent(Int32) on controller StudentController (SMS).
+2026-07-13 19:53:18 [INF] Executed DbCommand (1ms) [Parameters=[@__studentId_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT s.student_id, s.address, s.admission_date, s.class_id, s.dob, s.email, s.first_name, s.gender, s.last_name, s.phone, s.status, s.student_code, s.user_id, c.class_id, c.class_name, c.department_id, c.section_name
+FROM students AS s
+LEFT JOIN classes AS c ON s.class_id = c.class_id
+WHERE s.student_id = @__studentId_0
+LIMIT 1
+2026-07-13 19:53:18 [INF] Executing OkObjectResult, writing value of type 'SMS.DTOS.StudentDtos.StudentResponseDTO'.
+2026-07-13 19:53:18 [INF] Executed action StudentController.GetStudent (SMS) in 5.4954ms
+2026-07-13 19:53:18 [INF] Executed endpoint 'StudentController.GetStudent (SMS)'
+2026-07-13 19:53:18 [INF] Request finished HTTP/2 GET https://localhost:7272/api/v1/students/9 - 200 null application/json; charset=utf-8 11.2656ms
+2026-07-13 19:54:55 [INF] User profile is available. Using 'C:\Users\saiteja.anumala\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2026-07-13 19:54:55 [INF] Now listening on: https://localhost:7272
+2026-07-13 19:54:55 [INF] Now listening on: http://localhost:5280
+2026-07-13 19:54:55 [INF] Application started. Press Ctrl+C to shut down.
+2026-07-13 19:54:55 [INF] Hosting environment: Development
+2026-07-13 19:54:55 [INF] Content root path: D:\DotNet\SMS
+2026-07-13 19:54:56 [INF] Request starting HTTP/2 GET https://localhost:7272/swagger/index.html - null null
+2026-07-13 19:54:56 [INF] Request finished HTTP/2 GET https://localhost:7272/swagger/index.html - 200 null text/html;charset=utf-8 187.4203ms
+2026-07-13 19:54:56 [INF] Request starting HTTP/2 GET https://localhost:7272/_vs/browserLink - null null
+2026-07-13 19:54:56 [INF] Request starting HTTP/2 GET https://localhost:7272/_framework/aspnetcore-browser-refresh.js - null null
+2026-07-13 19:54:56 [INF] Request finished HTTP/2 GET https://localhost:7272/_framework/aspnetcore-browser-refresh.js - 200 14911 application/javascript; charset=utf-8 10.357ms
+2026-07-13 19:54:56 [INF] Request finished HTTP/2 GET https://localhost:7272/_vs/browserLink - 200 null text/javascript; charset=UTF-8 31.5213ms
+2026-07-13 19:54:56 [INF] Request starting HTTP/2 GET https://localhost:7272/swagger/v1/swagger.json - null null
+2026-07-13 19:54:57 [INF] Request finished HTTP/2 GET https://localhost:7272/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 25.6382ms
+2026-07-13 19:55:17 [INF] Request starting HTTP/2 POST https://localhost:7272/api/v1/auth/login - application/json 52
+2026-07-13 19:55:17 [INF] Executing endpoint 'AuthController.Login (SMS)'
+2026-07-13 19:55:17 [INF] Route matched with {action = "Login", controller = "Auth"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Login(SMS.DTOS.UserDtos.LoginRequestDTO) on controller AuthController (SMS).
+2026-07-13 19:55:18 [INF] Executed DbCommand (34ms) [Parameters=[@__username_0='?'], CommandType='"Text"', CommandTimeout='30']
+SELECT u.user_id, u.created_at, u.email, u.password_hash, u.role_id, u.status, u.username, r.role_id, r.role_name
+FROM users AS u
+INNER JOIN roles AS r ON u.role_id = r.role_id
+WHERE u.username = @__username_0
+LIMIT 1
+2026-07-13 19:55:18 [INF] Executing OkObjectResult, writing value of type 'SMS.DTOS.UserDtos.UserResponseDTO'.
+2026-07-13 19:55:18 [INF] Executed action AuthController.Login (SMS) in 985.3536ms
+2026-07-13 19:55:18 [INF] Executed endpoint 'AuthController.Login (SMS)'
+2026-07-13 19:55:18 [INF] Request finished HTTP/2 POST https://localhost:7272/api/v1/auth/login - 200 null application/json; charset=utf-8 1050.5606ms
+2026-07-13 19:55:44 [INF] Request starting HTTP/2 GET https://localhost:7272/api/v1/students/1 - null null
+2026-07-13 19:55:44 [INF] Executing endpoint 'StudentController.GetStudent (SMS)'
+2026-07-13 19:55:44 [INF] Route matched with {action = "GetStudent", controller = "Student"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetStudent(Int32) on controller StudentController (SMS).
+2026-07-13 19:55:44 [INF] Executed DbCommand (4ms) [Parameters=[@__studentId_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT s.student_id, s.address, s.admission_date, s.class_id, s.dob, s.email, s.first_name, s.gender, s.last_name, s.phone, s.status, s.student_code, s.user_id, c.class_id, c.class_name, c.department_id, c.section_name
+FROM students AS s
+LEFT JOIN classes AS c ON s.class_id = c.class_id
+WHERE s.student_id = @__studentId_0
+LIMIT 1
+2026-07-13 19:55:44 [INF] Executing OkObjectResult, writing value of type 'SMS.DTOS.StudentDtos.StudentResponseDTO'.
+2026-07-13 19:55:44 [INF] Executed action StudentController.GetStudent (SMS) in 60.3256ms
+2026-07-13 19:55:44 [INF] Executed endpoint 'StudentController.GetStudent (SMS)'
+2026-07-13 19:55:44 [INF] Request finished HTTP/2 GET https://localhost:7272/api/v1/students/1 - 200 null application/json; charset=utf-8 110.1507ms
+2026-07-13 19:55:47 [INF] Request starting HTTP/2 GET https://localhost:7272/api/v1/students/11 - null null
+2026-07-13 19:55:47 [INF] Executing endpoint 'StudentController.GetStudent (SMS)'
+2026-07-13 19:55:47 [INF] Route matched with {action = "GetStudent", controller = "Student"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetStudent(Int32) on controller StudentController (SMS).
+2026-07-13 19:55:47 [INF] Executed DbCommand (1ms) [Parameters=[@__studentId_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT s.student_id, s.address, s.admission_date, s.class_id, s.dob, s.email, s.first_name, s.gender, s.last_name, s.phone, s.status, s.student_code, s.user_id, c.class_id, c.class_name, c.department_id, c.section_name
+FROM students AS s
+LEFT JOIN classes AS c ON s.class_id = c.class_id
+WHERE s.student_id = @__studentId_0
+LIMIT 1
+2026-07-13 19:55:47 [INF] Executing OkObjectResult, writing value of type 'null'.
+2026-07-13 19:55:47 [INF] Executed action StudentController.GetStudent (SMS) in 43.8772ms
+2026-07-13 19:55:47 [INF] Executed endpoint 'StudentController.GetStudent (SMS)'
+2026-07-13 19:55:47 [INF] Request finished HTTP/2 GET https://localhost:7272/api/v1/students/11 - 204 null null 52.9614ms
+2026-07-13 19:56:08 [INF] Request starting HTTP/2 GET https://localhost:7272/api/v1/students/17 - null null
+2026-07-13 19:56:08 [INF] Executing endpoint 'StudentController.GetStudent (SMS)'
+2026-07-13 19:56:08 [INF] Route matched with {action = "GetStudent", controller = "Student"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetStudent(Int32) on controller StudentController (SMS).
+2026-07-13 19:56:08 [INF] Executed DbCommand (1ms) [Parameters=[@__studentId_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT s.student_id, s.address, s.admission_date, s.class_id, s.dob, s.email, s.first_name, s.gender, s.last_name, s.phone, s.status, s.student_code, s.user_id, c.class_id, c.class_name, c.department_id, c.section_name
+FROM students AS s
+LEFT JOIN classes AS c ON s.class_id = c.class_id
+WHERE s.student_id = @__studentId_0
+LIMIT 1
+2026-07-13 19:56:08 [INF] Executing OkObjectResult, writing value of type 'null'.
+2026-07-13 19:56:08 [INF] Executed action StudentController.GetStudent (SMS) in 8.7743ms
+2026-07-13 19:56:08 [INF] Executed endpoint 'StudentController.GetStudent (SMS)'
+2026-07-13 19:56:08 [INF] Request finished HTTP/2 GET https://localhost:7272/api/v1/students/17 - 204 null null 20.2907ms
+2026-07-13 19:56:13 [INF] Request starting HTTP/2 GET https://localhost:7272/api/v1/students/2 - null null
+2026-07-13 19:56:13 [INF] Executing endpoint 'StudentController.GetStudent (SMS)'
+2026-07-13 19:56:13 [INF] Route matched with {action = "GetStudent", controller = "Student"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetStudent(Int32) on controller StudentController (SMS).
+2026-07-13 19:56:13 [INF] Executed DbCommand (1ms) [Parameters=[@__studentId_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT s.student_id, s.address, s.admission_date, s.class_id, s.dob, s.email, s.first_name, s.gender, s.last_name, s.phone, s.status, s.student_code, s.user_id, c.class_id, c.class_name, c.department_id, c.section_name
+FROM students AS s
+LEFT JOIN classes AS c ON s.class_id = c.class_id
+WHERE s.student_id = @__studentId_0
+LIMIT 1
+2026-07-13 19:56:13 [INF] Executing OkObjectResult, writing value of type 'SMS.DTOS.StudentDtos.StudentResponseDTO'.
+2026-07-13 19:56:13 [INF] Executed action StudentController.GetStudent (SMS) in 7.5317ms
+2026-07-13 19:56:13 [INF] Executed endpoint 'StudentController.GetStudent (SMS)'
+2026-07-13 19:56:13 [INF] Request finished HTTP/2 GET https://localhost:7272/api/v1/students/2 - 200 null application/json; charset=utf-8 20.3898ms
+2026-07-13 19:56:18 [INF] Request starting HTTP/2 GET https://localhost:7272/api/v1/students/4 - null null
+2026-07-13 19:56:18 [INF] Executing endpoint 'StudentController.GetStudent (SMS)'
+2026-07-13 19:56:18 [INF] Route matched with {action = "GetStudent", controller = "Student"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetStudent(Int32) on controller StudentController (SMS).
+2026-07-13 19:56:18 [INF] Executed DbCommand (1ms) [Parameters=[@__studentId_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT s.student_id, s.address, s.admission_date, s.class_id, s.dob, s.email, s.first_name, s.gender, s.last_name, s.phone, s.status, s.student_code, s.user_id, c.class_id, c.class_name, c.department_id, c.section_name
+FROM students AS s
+LEFT JOIN classes AS c ON s.class_id = c.class_id
+WHERE s.student_id = @__studentId_0
+LIMIT 1
+2026-07-13 19:56:18 [INF] Executing OkObjectResult, writing value of type 'SMS.DTOS.StudentDtos.StudentResponseDTO'.
+2026-07-13 19:56:18 [INF] Executed action StudentController.GetStudent (SMS) in 8.9559ms
+2026-07-13 19:56:18 [INF] Executed endpoint 'StudentController.GetStudent (SMS)'
+2026-07-13 19:56:18 [INF] Request finished HTTP/2 GET https://localhost:7272/api/v1/students/4 - 200 null application/json; charset=utf-8 20.6548ms
+2026-07-13 19:56:24 [INF] Request starting HTTP/2 GET https://localhost:7272/api/v1/students/5 - null null
+2026-07-13 19:56:24 [INF] Executing endpoint 'StudentController.GetStudent (SMS)'
+2026-07-13 19:56:24 [INF] Route matched with {action = "GetStudent", controller = "Student"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetStudent(Int32) on controller StudentController (SMS).
+2026-07-13 19:56:24 [INF] Executed DbCommand (1ms) [Parameters=[@__studentId_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT s.student_id, s.address, s.admission_date, s.class_id, s.dob, s.email, s.first_name, s.gender, s.last_name, s.phone, s.status, s.student_code, s.user_id, c.class_id, c.class_name, c.department_id, c.section_name
+FROM students AS s
+LEFT JOIN classes AS c ON s.class_id = c.class_id
+WHERE s.student_id = @__studentId_0
+LIMIT 1
+2026-07-13 19:56:24 [INF] Executing OkObjectResult, writing value of type 'SMS.DTOS.StudentDtos.StudentResponseDTO'.
+2026-07-13 19:56:24 [INF] Executed action StudentController.GetStudent (SMS) in 6.9512ms
+2026-07-13 19:56:24 [INF] Executed endpoint 'StudentController.GetStudent (SMS)'
+2026-07-13 19:56:24 [INF] Request finished HTTP/2 GET https://localhost:7272/api/v1/students/5 - 200 null application/json; charset=utf-8 14.1227ms
+2026-07-13 19:56:30 [INF] Request starting HTTP/2 GET https://localhost:7272/api/v1/students/6 - null null
+2026-07-13 19:56:30 [INF] Executing endpoint 'StudentController.GetStudent (SMS)'
+2026-07-13 19:56:30 [INF] Route matched with {action = "GetStudent", controller = "Student"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetStudent(Int32) on controller StudentController (SMS).
+2026-07-13 19:56:30 [INF] Executed DbCommand (4ms) [Parameters=[@__studentId_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT s.student_id, s.address, s.admission_date, s.class_id, s.dob, s.email, s.first_name, s.gender, s.last_name, s.phone, s.status, s.student_code, s.user_id, c.class_id, c.class_name, c.department_id, c.section_name
+FROM students AS s
+LEFT JOIN classes AS c ON s.class_id = c.class_id
+WHERE s.student_id = @__studentId_0
+LIMIT 1
+2026-07-13 19:56:30 [INF] Executing OkObjectResult, writing value of type 'SMS.DTOS.StudentDtos.StudentResponseDTO'.
+2026-07-13 19:56:30 [INF] Executed action StudentController.GetStudent (SMS) in 9.923ms
+2026-07-13 19:56:30 [INF] Executed endpoint 'StudentController.GetStudent (SMS)'
+2026-07-13 19:56:30 [INF] Request finished HTTP/2 GET https://localhost:7272/api/v1/students/6 - 200 null application/json; charset=utf-8 18.7206ms
+2026-07-13 19:56:36 [INF] Request starting HTTP/2 GET https://localhost:7272/api/v1/students/7 - null null
+2026-07-13 19:56:36 [INF] Executing endpoint 'StudentController.GetStudent (SMS)'
+2026-07-13 19:56:36 [INF] Route matched with {action = "GetStudent", controller = "Student"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetStudent(Int32) on controller StudentController (SMS).
+2026-07-13 19:56:36 [INF] Executed DbCommand (1ms) [Parameters=[@__studentId_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT s.student_id, s.address, s.admission_date, s.class_id, s.dob, s.email, s.first_name, s.gender, s.last_name, s.phone, s.status, s.student_code, s.user_id, c.class_id, c.class_name, c.department_id, c.section_name
+FROM students AS s
+LEFT JOIN classes AS c ON s.class_id = c.class_id
+WHERE s.student_id = @__studentId_0
+LIMIT 1
+2026-07-13 19:56:36 [INF] Executing OkObjectResult, writing value of type 'SMS.DTOS.StudentDtos.StudentResponseDTO'.
+2026-07-13 19:56:36 [INF] Executed action StudentController.GetStudent (SMS) in 5.8637ms
+2026-07-13 19:56:36 [INF] Executed endpoint 'StudentController.GetStudent (SMS)'
+2026-07-13 19:56:36 [INF] Request finished HTTP/2 GET https://localhost:7272/api/v1/students/7 - 200 null application/json; charset=utf-8 12.7032ms
+2026-07-13 19:56:41 [INF] Request starting HTTP/2 GET https://localhost:7272/api/v1/students/8 - null null
+2026-07-13 19:56:41 [INF] Executing endpoint 'StudentController.GetStudent (SMS)'
+2026-07-13 19:56:41 [INF] Route matched with {action = "GetStudent", controller = "Student"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetStudent(Int32) on controller StudentController (SMS).
+2026-07-13 19:56:41 [INF] Executed DbCommand (2ms) [Parameters=[@__studentId_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT s.student_id, s.address, s.admission_date, s.class_id, s.dob, s.email, s.first_name, s.gender, s.last_name, s.phone, s.status, s.student_code, s.user_id, c.class_id, c.class_name, c.department_id, c.section_name
+FROM students AS s
+LEFT JOIN classes AS c ON s.class_id = c.class_id
+WHERE s.student_id = @__studentId_0
+LIMIT 1
+2026-07-13 19:56:41 [INF] Executing OkObjectResult, writing value of type 'SMS.DTOS.StudentDtos.StudentResponseDTO'.
+2026-07-13 19:56:41 [INF] Executed action StudentController.GetStudent (SMS) in 8.566ms
+2026-07-13 19:56:41 [INF] Executed endpoint 'StudentController.GetStudent (SMS)'
+2026-07-13 19:56:41 [INF] Request finished HTTP/2 GET https://localhost:7272/api/v1/students/8 - 200 null application/json; charset=utf-8 18.5181ms
+2026-07-13 19:56:47 [INF] Request starting HTTP/2 GET https://localhost:7272/api/v1/students - null null
+2026-07-13 19:56:47 [INF] Executing endpoint 'StudentController.GetAllStudents (SMS)'
+2026-07-13 19:56:47 [INF] Route matched with {action = "GetAllStudents", controller = "Student"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllStudents() on controller StudentController (SMS).
+2026-07-13 19:56:47 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT s.student_id, s.address, s.admission_date, s.class_id, s.dob, s.email, s.first_name, s.gender, s.last_name, s.phone, s.status, s.student_code, s.user_id, c.class_id, c.class_name, c.department_id, c.section_name
+FROM students AS s
+LEFT JOIN classes AS c ON s.class_id = c.class_id
+2026-07-13 19:56:47 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[SMS.DTOS.StudentDtos.StudentResponseDTO, SMS, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-07-13 19:56:47 [INF] Executed action StudentController.GetAllStudents (SMS) in 13.2186ms
+2026-07-13 19:56:47 [INF] Executed endpoint 'StudentController.GetAllStudents (SMS)'
+2026-07-13 19:56:47 [INF] Request finished HTTP/2 GET https://localhost:7272/api/v1/students - 200 null application/json; charset=utf-8 26.0833ms
+2026-07-13 19:56:49 [INF] Request starting HTTP/2 GET https://localhost:7272/api/v1/students - null null
+2026-07-13 19:56:49 [INF] Executing endpoint 'StudentController.GetAllStudents (SMS)'
+2026-07-13 19:56:49 [INF] Route matched with {action = "GetAllStudents", controller = "Student"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllStudents() on controller StudentController (SMS).
+2026-07-13 19:56:49 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT s.student_id, s.address, s.admission_date, s.class_id, s.dob, s.email, s.first_name, s.gender, s.last_name, s.phone, s.status, s.student_code, s.user_id, c.class_id, c.class_name, c.department_id, c.section_name
+FROM students AS s
+LEFT JOIN classes AS c ON s.class_id = c.class_id
+2026-07-13 19:56:49 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[SMS.DTOS.StudentDtos.StudentResponseDTO, SMS, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-07-13 19:56:49 [INF] Executed action StudentController.GetAllStudents (SMS) in 5.6256ms
+2026-07-13 19:56:49 [INF] Executed endpoint 'StudentController.GetAllStudents (SMS)'
+2026-07-13 19:56:49 [INF] Request finished HTTP/2 GET https://localhost:7272/api/v1/students - 200 null application/json; charset=utf-8 12.8433ms
+2026-07-13 19:56:51 [INF] Request starting HTTP/2 GET https://localhost:7272/api/v1/students - null null
+2026-07-13 19:56:51 [INF] Executing endpoint 'StudentController.GetAllStudents (SMS)'
+2026-07-13 19:56:51 [INF] Route matched with {action = "GetAllStudents", controller = "Student"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllStudents() on controller StudentController (SMS).
+2026-07-13 19:56:51 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT s.student_id, s.address, s.admission_date, s.class_id, s.dob, s.email, s.first_name, s.gender, s.last_name, s.phone, s.status, s.student_code, s.user_id, c.class_id, c.class_name, c.department_id, c.section_name
+FROM students AS s
+LEFT JOIN classes AS c ON s.class_id = c.class_id
+2026-07-13 19:56:51 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[SMS.DTOS.StudentDtos.StudentResponseDTO, SMS, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-07-13 19:56:51 [INF] Executed action StudentController.GetAllStudents (SMS) in 6.3603ms
+2026-07-13 19:56:51 [INF] Executed endpoint 'StudentController.GetAllStudents (SMS)'
+2026-07-13 19:56:51 [INF] Request finished HTTP/2 GET https://localhost:7272/api/v1/students - 200 null application/json; charset=utf-8 12.7876ms
+2026-07-13 19:56:52 [INF] Request starting HTTP/2 GET https://localhost:7272/api/v1/students - null null
+2026-07-13 19:56:52 [INF] Executing endpoint 'StudentController.GetAllStudents (SMS)'
+2026-07-13 19:56:52 [INF] Route matched with {action = "GetAllStudents", controller = "Student"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllStudents() on controller StudentController (SMS).
+2026-07-13 19:56:52 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT s.student_id, s.address, s.admission_date, s.class_id, s.dob, s.email, s.first_name, s.gender, s.last_name, s.phone, s.status, s.student_code, s.user_id, c.class_id, c.class_name, c.department_id, c.section_name
+FROM students AS s
+LEFT JOIN classes AS c ON s.class_id = c.class_id
+2026-07-13 19:56:52 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[SMS.DTOS.StudentDtos.StudentResponseDTO, SMS, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-07-13 19:56:52 [INF] Executed action StudentController.GetAllStudents (SMS) in 6.4699ms
+2026-07-13 19:56:52 [INF] Executed endpoint 'StudentController.GetAllStudents (SMS)'
+2026-07-13 19:56:52 [INF] Request finished HTTP/2 GET https://localhost:7272/api/v1/students - 200 null application/json; charset=utf-8 12.1744ms
+2026-07-13 19:56:53 [INF] Request starting HTTP/2 GET https://localhost:7272/api/v1/students - null null
+2026-07-13 19:56:53 [INF] Executing endpoint 'StudentController.GetAllStudents (SMS)'
+2026-07-13 19:56:53 [INF] Route matched with {action = "GetAllStudents", controller = "Student"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllStudents() on controller StudentController (SMS).
+2026-07-13 19:56:53 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT s.student_id, s.address, s.admission_date, s.class_id, s.dob, s.email, s.first_name, s.gender, s.last_name, s.phone, s.status, s.student_code, s.user_id, c.class_id, c.class_name, c.department_id, c.section_name
+FROM students AS s
+LEFT JOIN classes AS c ON s.class_id = c.class_id
+2026-07-13 19:56:53 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[SMS.DTOS.StudentDtos.StudentResponseDTO, SMS, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-07-13 19:56:53 [INF] Executed action StudentController.GetAllStudents (SMS) in 6.8722ms
+2026-07-13 19:56:53 [INF] Executed endpoint 'StudentController.GetAllStudents (SMS)'
+2026-07-13 19:56:53 [INF] Request finished HTTP/2 GET https://localhost:7272/api/v1/students - 200 null application/json; charset=utf-8 13.3209ms
+2026-07-13 19:56:54 [INF] Request starting HTTP/2 GET https://localhost:7272/api/v1/students - null null
+2026-07-13 19:56:54 [INF] Executing endpoint 'StudentController.GetAllStudents (SMS)'
+2026-07-13 19:56:54 [INF] Route matched with {action = "GetAllStudents", controller = "Student"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllStudents() on controller StudentController (SMS).
+2026-07-13 19:56:54 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT s.student_id, s.address, s.admission_date, s.class_id, s.dob, s.email, s.first_name, s.gender, s.last_name, s.phone, s.status, s.student_code, s.user_id, c.class_id, c.class_name, c.department_id, c.section_name
+FROM students AS s
+LEFT JOIN classes AS c ON s.class_id = c.class_id
+2026-07-13 19:56:54 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[SMS.DTOS.StudentDtos.StudentResponseDTO, SMS, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-07-13 19:56:54 [INF] Executed action StudentController.GetAllStudents (SMS) in 9.728ms
+2026-07-13 19:56:54 [INF] Executed endpoint 'StudentController.GetAllStudents (SMS)'
+2026-07-13 19:56:54 [INF] Request finished HTTP/2 GET https://localhost:7272/api/v1/students - 200 null application/json; charset=utf-8 25.5263ms
+2026-07-13 19:56:55 [INF] Request starting HTTP/2 GET https://localhost:7272/api/v1/students - null null
+2026-07-13 19:56:55 [INF] Request finished HTTP/2 GET https://localhost:7272/api/v1/students - 503 0 null 3.0829ms
+2026-07-13 20:00:30 [INF] User profile is available. Using 'C:\Users\saiteja.anumala\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2026-07-13 20:00:30 [INF] Now listening on: https://localhost:7272
+2026-07-13 20:00:30 [INF] Now listening on: http://localhost:5280
+2026-07-13 20:00:30 [INF] Application started. Press Ctrl+C to shut down.
+2026-07-13 20:00:30 [INF] Hosting environment: Development
+2026-07-13 20:00:30 [INF] Content root path: D:\DotNet\SMS
+2026-07-13 20:00:31 [INF] Request starting HTTP/2 GET https://localhost:7272/swagger/index.html - null null
+2026-07-13 20:00:32 [INF] Request finished HTTP/2 GET https://localhost:7272/swagger/index.html - 200 null text/html;charset=utf-8 203.6482ms
+2026-07-13 20:00:32 [INF] Request starting HTTP/2 GET https://localhost:7272/_framework/aspnetcore-browser-refresh.js - null null
+2026-07-13 20:00:32 [INF] Request starting HTTP/2 GET https://localhost:7272/_vs/browserLink - null null
+2026-07-13 20:00:32 [INF] Request finished HTTP/2 GET https://localhost:7272/_framework/aspnetcore-browser-refresh.js - 200 14911 application/javascript; charset=utf-8 6.9552ms
+2026-07-13 20:00:32 [INF] Request finished HTTP/2 GET https://localhost:7272/_vs/browserLink - 200 null text/javascript; charset=UTF-8 36.352ms
+2026-07-13 20:00:32 [INF] Request starting HTTP/2 GET https://localhost:7272/swagger/v1/swagger.json - null null
+2026-07-13 20:00:32 [INF] Request finished HTTP/2 GET https://localhost:7272/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 32.7002ms
+2026-07-13 20:00:53 [INF] Request starting HTTP/2 POST https://localhost:7272/api/v1/auth/login - application/json 52
+2026-07-13 20:00:53 [INF] Executing endpoint 'AuthController.Login (SMS)'
+2026-07-13 20:00:53 [INF] Route matched with {action = "Login", controller = "Auth"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Login(SMS.DTOS.UserDtos.LoginRequestDTO) on controller AuthController (SMS).
+2026-07-13 20:00:54 [INF] Executed DbCommand (33ms) [Parameters=[@__username_0='?'], CommandType='"Text"', CommandTimeout='30']
+SELECT u.user_id, u.created_at, u.email, u.password_hash, u.role_id, u.status, u.username, r.role_id, r.role_name
+FROM users AS u
+INNER JOIN roles AS r ON u.role_id = r.role_id
+WHERE u.username = @__username_0
+LIMIT 1
+2026-07-13 20:00:54 [INF] Executing OkObjectResult, writing value of type 'SMS.DTOS.UserDtos.UserResponseDTO'.
+2026-07-13 20:00:54 [INF] Executed action AuthController.Login (SMS) in 959.931ms
+2026-07-13 20:00:54 [INF] Executed endpoint 'AuthController.Login (SMS)'
+2026-07-13 20:00:54 [INF] Request finished HTTP/2 POST https://localhost:7272/api/v1/auth/login - 200 null application/json; charset=utf-8 1020.4494ms
+2026-07-13 20:01:27 [INF] Request starting HTTP/2 GET https://localhost:7272/api/v1/students - null null
+2026-07-13 20:01:27 [INF] Request finished HTTP/2 GET https://localhost:7272/api/v1/students - 400 null application/json; charset=utf-8 42.6877ms
+2026-07-13 20:01:28 [INF] Request starting HTTP/2 GET https://localhost:7272/api/v1/students - null null
+2026-07-13 20:01:28 [INF] Request finished HTTP/2 GET https://localhost:7272/api/v1/students - 400 null application/json; charset=utf-8 16.6379ms
+2026-07-13 20:01:30 [INF] Request starting HTTP/2 GET https://localhost:7272/api/v1/students - null null
+2026-07-13 20:01:30 [INF] Request finished HTTP/2 GET https://localhost:7272/api/v1/students - 400 null application/json; charset=utf-8 21.126ms
+2026-07-13 20:01:31 [INF] Request starting HTTP/2 GET https://localhost:7272/api/v1/students - null null
+2026-07-13 20:01:31 [INF] Request finished HTTP/2 GET https://localhost:7272/api/v1/students - 400 null application/json; charset=utf-8 21.6619ms
+2026-07-13 20:01:32 [INF] Request starting HTTP/2 GET https://localhost:7272/api/v1/students - null null
+2026-07-13 20:01:32 [INF] Request finished HTTP/2 GET https://localhost:7272/api/v1/students - 400 null application/json; charset=utf-8 24.4504ms
+2026-07-13 20:01:33 [INF] Request starting HTTP/2 GET https://localhost:7272/api/v1/students - null null
+2026-07-13 20:01:33 [INF] Request finished HTTP/2 GET https://localhost:7272/api/v1/students - 400 null application/json; charset=utf-8 17.7478ms
+2026-07-13 20:01:33 [INF] Request starting HTTP/2 GET https://localhost:7272/api/v1/students - null null
+2026-07-13 20:01:33 [INF] Request finished HTTP/2 GET https://localhost:7272/api/v1/students - 400 null application/json; charset=utf-8 18.4935ms
+2026-07-13 20:01:33 [INF] Request starting HTTP/2 GET https://localhost:7272/api/v1/students - null null
+2026-07-13 20:01:33 [INF] Request finished HTTP/2 GET https://localhost:7272/api/v1/students - 400 null application/json; charset=utf-8 17.5482ms
+2026-07-13 20:01:40 [INF] Request starting HTTP/2 GET https://localhost:7272/api/v1/students - null null
+2026-07-13 20:01:40 [INF] Request finished HTTP/2 GET https://localhost:7272/api/v1/students - 400 null application/json; charset=utf-8 23.0812ms
+2026-07-13 20:01:47 [INF] Request starting HTTP/2 GET https://localhost:7272/api/v1/students/1 - null null
+2026-07-13 20:01:47 [INF] Request finished HTTP/2 GET https://localhost:7272/api/v1/students/1 - 400 null application/json; charset=utf-8 17.2445ms
+2026-07-13 20:02:03 [INF] User profile is available. Using 'C:\Users\saiteja.anumala\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2026-07-13 20:02:03 [INF] Now listening on: https://localhost:7272
+2026-07-13 20:02:03 [INF] Now listening on: http://localhost:5280
+2026-07-13 20:02:03 [INF] Application started. Press Ctrl+C to shut down.
+2026-07-13 20:02:03 [INF] Hosting environment: Development
+2026-07-13 20:02:03 [INF] Content root path: D:\DotNet\SMS
+2026-07-13 20:02:04 [INF] Request starting HTTP/2 GET https://localhost:7272/swagger/index.html - null null
+2026-07-13 20:02:05 [INF] Request finished HTTP/2 GET https://localhost:7272/swagger/index.html - 200 null text/html;charset=utf-8 181.9243ms
+2026-07-13 20:02:05 [INF] Request starting HTTP/2 GET https://localhost:7272/_framework/aspnetcore-browser-refresh.js - null null
+2026-07-13 20:02:05 [INF] Request starting HTTP/2 GET https://localhost:7272/_vs/browserLink - null null
+2026-07-13 20:02:05 [INF] Request finished HTTP/2 GET https://localhost:7272/_framework/aspnetcore-browser-refresh.js - 200 14911 application/javascript; charset=utf-8 8.101ms
+2026-07-13 20:02:05 [INF] Request finished HTTP/2 GET https://localhost:7272/_vs/browserLink - 200 null text/javascript; charset=UTF-8 36.6604ms
+2026-07-13 20:02:05 [INF] Request starting HTTP/2 GET https://localhost:7272/swagger/v1/swagger.json - null null
+2026-07-13 20:02:05 [INF] Request finished HTTP/2 GET https://localhost:7272/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 23.5626ms
+2026-07-13 20:02:27 [INF] Request starting HTTP/2 POST https://localhost:7272/api/v1/auth/login - application/json 52
+2026-07-13 20:02:27 [INF] Executing endpoint 'AuthController.Login (SMS)'
+2026-07-13 20:02:27 [INF] Route matched with {action = "Login", controller = "Auth"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Login(SMS.DTOS.UserDtos.LoginRequestDTO) on controller AuthController (SMS).
+2026-07-13 20:02:28 [INF] Executed DbCommand (33ms) [Parameters=[@__username_0='?'], CommandType='"Text"', CommandTimeout='30']
+SELECT u.user_id, u.created_at, u.email, u.password_hash, u.role_id, u.status, u.username, r.role_id, r.role_name
+FROM users AS u
+INNER JOIN roles AS r ON u.role_id = r.role_id
+WHERE u.username = @__username_0
+LIMIT 1
+2026-07-13 20:02:28 [INF] Executing OkObjectResult, writing value of type 'SMS.DTOS.UserDtos.UserResponseDTO'.
+2026-07-13 20:02:28 [INF] Executed action AuthController.Login (SMS) in 988.4951ms
+2026-07-13 20:02:28 [INF] Executed endpoint 'AuthController.Login (SMS)'
+2026-07-13 20:02:28 [INF] Request finished HTTP/2 POST https://localhost:7272/api/v1/auth/login - 200 null application/json; charset=utf-8 1053.4492ms
+2026-07-13 20:03:04 [INF] Request starting HTTP/2 GET https://localhost:7272/api/v1/students - null null
+2026-07-13 20:03:05 [INF] Executing endpoint 'StudentController.GetAllStudents (SMS)'
+2026-07-13 20:03:05 [INF] Route matched with {action = "GetAllStudents", controller = "Student"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllStudents() on controller StudentController (SMS).
+2026-07-13 20:03:05 [INF] Executed DbCommand (5ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT s.student_id, s.address, s.admission_date, s.class_id, s.dob, s.email, s.first_name, s.gender, s.last_name, s.phone, s.status, s.student_code, s.user_id, c.class_id, c.class_name, c.department_id, c.section_name
+FROM students AS s
+LEFT JOIN classes AS c ON s.class_id = c.class_id
+2026-07-13 20:03:05 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[SMS.DTOS.StudentDtos.StudentResponseDTO, SMS, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-07-13 20:03:05 [INF] Executed action StudentController.GetAllStudents (SMS) in 61.3159ms
+2026-07-13 20:03:05 [INF] Executed endpoint 'StudentController.GetAllStudents (SMS)'
+2026-07-13 20:03:05 [INF] Request finished HTTP/2 GET https://localhost:7272/api/v1/students - 200 null application/json; charset=utf-8 107.1296ms
+2026-07-13 20:03:06 [INF] Request starting HTTP/2 GET https://localhost:7272/api/v1/students - null null
+2026-07-13 20:03:06 [INF] Executing endpoint 'StudentController.GetAllStudents (SMS)'
+2026-07-13 20:03:06 [INF] Route matched with {action = "GetAllStudents", controller = "Student"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllStudents() on controller StudentController (SMS).
+2026-07-13 20:03:06 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT s.student_id, s.address, s.admission_date, s.class_id, s.dob, s.email, s.first_name, s.gender, s.last_name, s.phone, s.status, s.student_code, s.user_id, c.class_id, c.class_name, c.department_id, c.section_name
+FROM students AS s
+LEFT JOIN classes AS c ON s.class_id = c.class_id
+2026-07-13 20:03:06 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[SMS.DTOS.StudentDtos.StudentResponseDTO, SMS, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-07-13 20:03:06 [INF] Executed action StudentController.GetAllStudents (SMS) in 45.2606ms
+2026-07-13 20:03:06 [INF] Executed endpoint 'StudentController.GetAllStudents (SMS)'
+2026-07-13 20:03:06 [INF] Request finished HTTP/2 GET https://localhost:7272/api/v1/students - 200 null application/json; charset=utf-8 61.7327ms
+2026-07-13 20:03:07 [INF] Request starting HTTP/2 GET https://localhost:7272/api/v1/students - null null
+2026-07-13 20:03:07 [INF] Executing endpoint 'StudentController.GetAllStudents (SMS)'
+2026-07-13 20:03:07 [INF] Route matched with {action = "GetAllStudents", controller = "Student"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllStudents() on controller StudentController (SMS).
+2026-07-13 20:03:07 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT s.student_id, s.address, s.admission_date, s.class_id, s.dob, s.email, s.first_name, s.gender, s.last_name, s.phone, s.status, s.student_code, s.user_id, c.class_id, c.class_name, c.department_id, c.section_name
+FROM students AS s
+LEFT JOIN classes AS c ON s.class_id = c.class_id
+2026-07-13 20:03:07 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[SMS.DTOS.StudentDtos.StudentResponseDTO, SMS, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-07-13 20:03:07 [INF] Executed action StudentController.GetAllStudents (SMS) in 9.1471ms
+2026-07-13 20:03:07 [INF] Executed endpoint 'StudentController.GetAllStudents (SMS)'
+2026-07-13 20:03:07 [INF] Request finished HTTP/2 GET https://localhost:7272/api/v1/students - 200 null application/json; charset=utf-8 15.8389ms
+2026-07-13 20:03:07 [INF] Request starting HTTP/2 GET https://localhost:7272/api/v1/students - null null
+2026-07-13 20:03:07 [INF] Executing endpoint 'StudentController.GetAllStudents (SMS)'
+2026-07-13 20:03:07 [INF] Route matched with {action = "GetAllStudents", controller = "Student"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllStudents() on controller StudentController (SMS).
+2026-07-13 20:03:07 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT s.student_id, s.address, s.admission_date, s.class_id, s.dob, s.email, s.first_name, s.gender, s.last_name, s.phone, s.status, s.student_code, s.user_id, c.class_id, c.class_name, c.department_id, c.section_name
+FROM students AS s
+LEFT JOIN classes AS c ON s.class_id = c.class_id
+2026-07-13 20:03:07 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[SMS.DTOS.StudentDtos.StudentResponseDTO, SMS, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-07-13 20:03:07 [INF] Executed action StudentController.GetAllStudents (SMS) in 5.9333ms
+2026-07-13 20:03:07 [INF] Executed endpoint 'StudentController.GetAllStudents (SMS)'
+2026-07-13 20:03:07 [INF] Request finished HTTP/2 GET https://localhost:7272/api/v1/students - 200 null application/json; charset=utf-8 13.0888ms
+2026-07-13 20:03:08 [INF] Request starting HTTP/2 GET https://localhost:7272/api/v1/students - null null
+2026-07-13 20:03:08 [INF] Executing endpoint 'StudentController.GetAllStudents (SMS)'
+2026-07-13 20:03:08 [INF] Route matched with {action = "GetAllStudents", controller = "Student"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllStudents() on controller StudentController (SMS).
+2026-07-13 20:03:08 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT s.student_id, s.address, s.admission_date, s.class_id, s.dob, s.email, s.first_name, s.gender, s.last_name, s.phone, s.status, s.student_code, s.user_id, c.class_id, c.class_name, c.department_id, c.section_name
+FROM students AS s
+LEFT JOIN classes AS c ON s.class_id = c.class_id
+2026-07-13 20:03:08 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[SMS.DTOS.StudentDtos.StudentResponseDTO, SMS, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-07-13 20:03:08 [INF] Executed action StudentController.GetAllStudents (SMS) in 6.5903ms
+2026-07-13 20:03:08 [INF] Executed endpoint 'StudentController.GetAllStudents (SMS)'
+2026-07-13 20:03:08 [INF] Request finished HTTP/2 GET https://localhost:7272/api/v1/students - 200 null application/json; charset=utf-8 12.1693ms
+2026-07-13 20:03:09 [INF] Request starting HTTP/2 GET https://localhost:7272/api/v1/students - null null
+2026-07-13 20:03:09 [INF] Request finished HTTP/2 GET https://localhost:7272/api/v1/students - 503 0 null 2.7452ms
+2026-07-13 20:12:11 [INF] User profile is available. Using 'C:\Users\saiteja.anumala\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2026-07-13 20:12:11 [INF] Now listening on: https://localhost:7272
+2026-07-13 20:12:11 [INF] Now listening on: http://localhost:5280
+2026-07-13 20:12:11 [INF] Application started. Press Ctrl+C to shut down.
+2026-07-13 20:12:11 [INF] Hosting environment: Development
+2026-07-13 20:12:11 [INF] Content root path: D:\DotNet\SMS
+2026-07-13 20:12:12 [INF] Request starting HTTP/2 GET https://localhost:7272/swagger/index.html - null null
+2026-07-13 20:12:12 [INF] Request finished HTTP/2 GET https://localhost:7272/swagger/index.html - 200 null text/html;charset=utf-8 206.4163ms
+2026-07-13 20:12:12 [INF] Request starting HTTP/2 GET https://localhost:7272/_vs/browserLink - null null
+2026-07-13 20:12:12 [INF] Request starting HTTP/2 GET https://localhost:7272/_framework/aspnetcore-browser-refresh.js - null null
+2026-07-13 20:12:12 [INF] Request finished HTTP/2 GET https://localhost:7272/_framework/aspnetcore-browser-refresh.js - 200 14911 application/javascript; charset=utf-8 10.5261ms
+2026-07-13 20:12:12 [INF] Request finished HTTP/2 GET https://localhost:7272/_vs/browserLink - 200 null text/javascript; charset=UTF-8 30.2324ms
+2026-07-13 20:12:12 [INF] Request starting HTTP/2 GET https://localhost:7272/swagger/v1/swagger.json - null null
+2026-07-13 20:12:12 [INF] Request finished HTTP/2 GET https://localhost:7272/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 21.153ms
+2026-07-13 20:12:45 [INF] Request starting HTTP/2 POST https://localhost:7272/api/v1/auth/login - application/json 52
+2026-07-13 20:12:45 [INF] Executing endpoint 'AuthController.Login (SMS)'
+2026-07-13 20:12:45 [INF] Route matched with {action = "Login", controller = "Auth"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Login(SMS.DTOS.UserDtos.LoginRequestDTO) on controller AuthController (SMS).
+2026-07-13 20:12:46 [INF] Executed DbCommand (33ms) [Parameters=[@__username_0='?'], CommandType='"Text"', CommandTimeout='30']
+SELECT u.user_id, u.created_at, u.email, u.password_hash, u.role_id, u.status, u.username, r.role_id, r.role_name
+FROM users AS u
+INNER JOIN roles AS r ON u.role_id = r.role_id
+WHERE u.username = @__username_0
+LIMIT 1
+2026-07-13 20:12:46 [INF] Executing OkObjectResult, writing value of type 'SMS.DTOS.UserDtos.UserResponseDTO'.
+2026-07-13 20:12:46 [INF] Executed action AuthController.Login (SMS) in 940.4155ms
+2026-07-13 20:12:46 [INF] Executed endpoint 'AuthController.Login (SMS)'
+2026-07-13 20:12:46 [INF] Request finished HTTP/2 POST https://localhost:7272/api/v1/auth/login - 200 null application/json; charset=utf-8 1006.725ms
+2026-07-13 20:13:25 [INF] Request starting HTTP/2 GET https://localhost:7272/api/v1/students - null null
+2026-07-13 20:13:25 [INF] Executing endpoint 'StudentController.GetAllStudents (SMS)'
+2026-07-13 20:13:25 [INF] Route matched with {action = "GetAllStudents", controller = "Student"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllStudents() on controller StudentController (SMS).
+2026-07-13 20:13:25 [INF] Executed DbCommand (4ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT s.student_id, s.address, s.admission_date, s.class_id, s.dob, s.email, s.first_name, s.gender, s.last_name, s.phone, s.status, s.student_code, s.user_id, c.class_id, c.class_name, c.department_id, c.section_name
+FROM students AS s
+LEFT JOIN classes AS c ON s.class_id = c.class_id
+2026-07-13 20:13:25 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[SMS.DTOS.StudentDtos.StudentResponseDTO, SMS, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-07-13 20:13:25 [INF] Executed action StudentController.GetAllStudents (SMS) in 60.7455ms
+2026-07-13 20:13:25 [INF] Executed endpoint 'StudentController.GetAllStudents (SMS)'
+2026-07-13 20:13:25 [INF] Request finished HTTP/2 GET https://localhost:7272/api/v1/students - 200 null application/json; charset=utf-8 104.5012ms
+2026-07-13 20:13:27 [INF] Request starting HTTP/2 GET https://localhost:7272/api/v1/students - null null
+2026-07-13 20:13:27 [INF] Executing endpoint 'StudentController.GetAllStudents (SMS)'
+2026-07-13 20:13:27 [INF] Route matched with {action = "GetAllStudents", controller = "Student"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllStudents() on controller StudentController (SMS).
+2026-07-13 20:13:27 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT s.student_id, s.address, s.admission_date, s.class_id, s.dob, s.email, s.first_name, s.gender, s.last_name, s.phone, s.status, s.student_code, s.user_id, c.class_id, c.class_name, c.department_id, c.section_name
+FROM students AS s
+LEFT JOIN classes AS c ON s.class_id = c.class_id
+2026-07-13 20:13:27 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[SMS.DTOS.StudentDtos.StudentResponseDTO, SMS, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-07-13 20:13:27 [INF] Executed action StudentController.GetAllStudents (SMS) in 50.8801ms
+2026-07-13 20:13:27 [INF] Executed endpoint 'StudentController.GetAllStudents (SMS)'
+2026-07-13 20:13:27 [INF] Request finished HTTP/2 GET https://localhost:7272/api/v1/students - 200 null application/json; charset=utf-8 59.5159ms
+2026-07-13 20:13:27 [INF] Request starting HTTP/2 GET https://localhost:7272/api/v1/students - null null
+2026-07-13 20:13:27 [INF] Executing endpoint 'StudentController.GetAllStudents (SMS)'
+2026-07-13 20:13:27 [INF] Route matched with {action = "GetAllStudents", controller = "Student"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllStudents() on controller StudentController (SMS).
+2026-07-13 20:13:27 [INF] Executed DbCommand (3ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT s.student_id, s.address, s.admission_date, s.class_id, s.dob, s.email, s.first_name, s.gender, s.last_name, s.phone, s.status, s.student_code, s.user_id, c.class_id, c.class_name, c.department_id, c.section_name
+FROM students AS s
+LEFT JOIN classes AS c ON s.class_id = c.class_id
+2026-07-13 20:13:27 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[SMS.DTOS.StudentDtos.StudentResponseDTO, SMS, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-07-13 20:13:27 [INF] Executed action StudentController.GetAllStudents (SMS) in 9.7231ms
+2026-07-13 20:13:27 [INF] Executed endpoint 'StudentController.GetAllStudents (SMS)'
+2026-07-13 20:13:27 [INF] Request finished HTTP/2 GET https://localhost:7272/api/v1/students - 200 null application/json; charset=utf-8 16.094ms
+2026-07-13 20:13:28 [INF] Request starting HTTP/2 GET https://localhost:7272/api/v1/students - null null
+2026-07-13 20:13:28 [INF] Executing endpoint 'StudentController.GetAllStudents (SMS)'
+2026-07-13 20:13:28 [INF] Route matched with {action = "GetAllStudents", controller = "Student"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllStudents() on controller StudentController (SMS).
+2026-07-13 20:13:28 [INF] Executed DbCommand (3ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT s.student_id, s.address, s.admission_date, s.class_id, s.dob, s.email, s.first_name, s.gender, s.last_name, s.phone, s.status, s.student_code, s.user_id, c.class_id, c.class_name, c.department_id, c.section_name
+FROM students AS s
+LEFT JOIN classes AS c ON s.class_id = c.class_id
+2026-07-13 20:13:28 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[SMS.DTOS.StudentDtos.StudentResponseDTO, SMS, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-07-13 20:13:28 [INF] Executed action StudentController.GetAllStudents (SMS) in 8.6086ms
+2026-07-13 20:13:28 [INF] Executed endpoint 'StudentController.GetAllStudents (SMS)'
+2026-07-13 20:13:28 [INF] Request finished HTTP/2 GET https://localhost:7272/api/v1/students - 200 null application/json; charset=utf-8 16.7551ms
+2026-07-13 20:13:29 [INF] Request starting HTTP/2 GET https://localhost:7272/api/v1/students - null null
+2026-07-13 20:13:29 [INF] Executing endpoint 'StudentController.GetAllStudents (SMS)'
+2026-07-13 20:13:29 [INF] Route matched with {action = "GetAllStudents", controller = "Student"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllStudents() on controller StudentController (SMS).
+2026-07-13 20:13:29 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT s.student_id, s.address, s.admission_date, s.class_id, s.dob, s.email, s.first_name, s.gender, s.last_name, s.phone, s.status, s.student_code, s.user_id, c.class_id, c.class_name, c.department_id, c.section_name
+FROM students AS s
+LEFT JOIN classes AS c ON s.class_id = c.class_id
+2026-07-13 20:13:29 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[SMS.DTOS.StudentDtos.StudentResponseDTO, SMS, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-07-13 20:13:29 [INF] Executed action StudentController.GetAllStudents (SMS) in 6.1203ms
+2026-07-13 20:13:29 [INF] Executed endpoint 'StudentController.GetAllStudents (SMS)'
+2026-07-13 20:13:29 [INF] Request finished HTTP/2 GET https://localhost:7272/api/v1/students - 200 null application/json; charset=utf-8 12.6997ms
+2026-07-13 20:13:29 [INF] Request starting HTTP/2 GET https://localhost:7272/api/v1/students - null null
+2026-07-13 20:13:29 [INF] Request finished HTTP/2 GET https://localhost:7272/api/v1/students - 429 null application/json 5.4592ms
+2026-07-13 20:14:04 [INF] Request starting HTTP/2 GET https://localhost:7272/api/v1/students - null null
+2026-07-13 20:14:04 [INF] Executing endpoint 'StudentController.GetAllStudents (SMS)'
+2026-07-13 20:14:04 [INF] Route matched with {action = "GetAllStudents", controller = "Student"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllStudents() on controller StudentController (SMS).
+2026-07-13 20:14:04 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT s.student_id, s.address, s.admission_date, s.class_id, s.dob, s.email, s.first_name, s.gender, s.last_name, s.phone, s.status, s.student_code, s.user_id, c.class_id, c.class_name, c.department_id, c.section_name
+FROM students AS s
+LEFT JOIN classes AS c ON s.class_id = c.class_id
+2026-07-13 20:14:04 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[SMS.DTOS.StudentDtos.StudentResponseDTO, SMS, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-07-13 20:14:04 [INF] Executed action StudentController.GetAllStudents (SMS) in 7.4607ms
+2026-07-13 20:14:04 [INF] Executed endpoint 'StudentController.GetAllStudents (SMS)'
+2026-07-13 20:14:04 [INF] Request finished HTTP/2 GET https://localhost:7272/api/v1/students - 200 null application/json; charset=utf-8 14.6724ms
+2026-07-13 20:14:05 [INF] Request starting HTTP/2 GET https://localhost:7272/api/v1/students - null null
+2026-07-13 20:14:05 [INF] Executing endpoint 'StudentController.GetAllStudents (SMS)'
+2026-07-13 20:14:05 [INF] Route matched with {action = "GetAllStudents", controller = "Student"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllStudents() on controller StudentController (SMS).
+2026-07-13 20:14:05 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT s.student_id, s.address, s.admission_date, s.class_id, s.dob, s.email, s.first_name, s.gender, s.last_name, s.phone, s.status, s.student_code, s.user_id, c.class_id, c.class_name, c.department_id, c.section_name
+FROM students AS s
+LEFT JOIN classes AS c ON s.class_id = c.class_id
+2026-07-13 20:14:05 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[SMS.DTOS.StudentDtos.StudentResponseDTO, SMS, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-07-13 20:14:05 [INF] Executed action StudentController.GetAllStudents (SMS) in 7.4961ms
+2026-07-13 20:14:05 [INF] Executed endpoint 'StudentController.GetAllStudents (SMS)'
+2026-07-13 20:14:05 [INF] Request finished HTTP/2 GET https://localhost:7272/api/v1/students - 200 null application/json; charset=utf-8 14.3707ms
+2026-07-13 20:14:07 [INF] Request starting HTTP/2 GET https://localhost:7272/api/v1/students - null null
+2026-07-13 20:14:07 [INF] Executing endpoint 'StudentController.GetAllStudents (SMS)'
+2026-07-13 20:14:07 [INF] Route matched with {action = "GetAllStudents", controller = "Student"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllStudents() on controller StudentController (SMS).
+2026-07-13 20:14:07 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT s.student_id, s.address, s.admission_date, s.class_id, s.dob, s.email, s.first_name, s.gender, s.last_name, s.phone, s.status, s.student_code, s.user_id, c.class_id, c.class_name, c.department_id, c.section_name
+FROM students AS s
+LEFT JOIN classes AS c ON s.class_id = c.class_id
+2026-07-13 20:14:07 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[SMS.DTOS.StudentDtos.StudentResponseDTO, SMS, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-07-13 20:14:07 [INF] Executed action StudentController.GetAllStudents (SMS) in 8.1624ms
+2026-07-13 20:14:07 [INF] Executed endpoint 'StudentController.GetAllStudents (SMS)'
+2026-07-13 20:14:07 [INF] Request finished HTTP/2 GET https://localhost:7272/api/v1/students - 200 null application/json; charset=utf-8 16.598ms
+2026-07-13 20:14:07 [INF] Request starting HTTP/2 GET https://localhost:7272/api/v1/students - null null
+2026-07-13 20:14:07 [INF] Executing endpoint 'StudentController.GetAllStudents (SMS)'
+2026-07-13 20:14:07 [INF] Route matched with {action = "GetAllStudents", controller = "Student"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllStudents() on controller StudentController (SMS).
+2026-07-13 20:14:07 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT s.student_id, s.address, s.admission_date, s.class_id, s.dob, s.email, s.first_name, s.gender, s.last_name, s.phone, s.status, s.student_code, s.user_id, c.class_id, c.class_name, c.department_id, c.section_name
+FROM students AS s
+LEFT JOIN classes AS c ON s.class_id = c.class_id
+2026-07-13 20:14:07 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[SMS.DTOS.StudentDtos.StudentResponseDTO, SMS, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-07-13 20:14:07 [INF] Executed action StudentController.GetAllStudents (SMS) in 6.3224ms
+2026-07-13 20:14:07 [INF] Executed endpoint 'StudentController.GetAllStudents (SMS)'
+2026-07-13 20:14:07 [INF] Request finished HTTP/2 GET https://localhost:7272/api/v1/students - 200 null application/json; charset=utf-8 12.2653ms
+2026-07-13 20:14:08 [INF] Request starting HTTP/2 GET https://localhost:7272/api/v1/students - null null
+2026-07-13 20:14:08 [INF] Executing endpoint 'StudentController.GetAllStudents (SMS)'
+2026-07-13 20:14:08 [INF] Route matched with {action = "GetAllStudents", controller = "Student"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllStudents() on controller StudentController (SMS).
+2026-07-13 20:14:08 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT s.student_id, s.address, s.admission_date, s.class_id, s.dob, s.email, s.first_name, s.gender, s.last_name, s.phone, s.status, s.student_code, s.user_id, c.class_id, c.class_name, c.department_id, c.section_name
+FROM students AS s
+LEFT JOIN classes AS c ON s.class_id = c.class_id
+2026-07-13 20:14:08 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[SMS.DTOS.StudentDtos.StudentResponseDTO, SMS, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-07-13 20:14:08 [INF] Executed action StudentController.GetAllStudents (SMS) in 6.0236ms
+2026-07-13 20:14:08 [INF] Executed endpoint 'StudentController.GetAllStudents (SMS)'
+2026-07-13 20:14:08 [INF] Request finished HTTP/2 GET https://localhost:7272/api/v1/students - 200 null application/json; charset=utf-8 11.8457ms
+2026-07-13 20:14:09 [INF] Request starting HTTP/2 GET https://localhost:7272/api/v1/students - null null
+2026-07-13 20:14:09 [INF] Request finished HTTP/2 GET https://localhost:7272/api/v1/students - 429 null application/json 2.2889ms
+2026-07-13 20:14:20 [INF] Request starting HTTP/2 GET https://localhost:7272/api/v1/students/1 - null null
+2026-07-13 20:14:20 [INF] Executing endpoint 'StudentController.GetStudent (SMS)'
+2026-07-13 20:14:20 [INF] Route matched with {action = "GetStudent", controller = "Student"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetStudent(Int32) on controller StudentController (SMS).
+2026-07-13 20:14:20 [INF] Executed DbCommand (1ms) [Parameters=[@__studentId_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT s.student_id, s.address, s.admission_date, s.class_id, s.dob, s.email, s.first_name, s.gender, s.last_name, s.phone, s.status, s.student_code, s.user_id, c.class_id, c.class_name, c.department_id, c.section_name
+FROM students AS s
+LEFT JOIN classes AS c ON s.class_id = c.class_id
+WHERE s.student_id = @__studentId_0
+LIMIT 1
+2026-07-13 20:14:20 [INF] Executing OkObjectResult, writing value of type 'SMS.DTOS.StudentDtos.StudentResponseDTO'.
+2026-07-13 20:14:20 [INF] Executed action StudentController.GetStudent (SMS) in 13.1914ms
+2026-07-13 20:14:20 [INF] Executed endpoint 'StudentController.GetStudent (SMS)'
+2026-07-13 20:14:20 [INF] Request finished HTTP/2 GET https://localhost:7272/api/v1/students/1 - 200 null application/json; charset=utf-8 22.6537ms
+2026-07-13 20:14:23 [INF] Request starting HTTP/2 GET https://localhost:7272/api/v1/students/2 - null null
+2026-07-13 20:14:23 [INF] Executing endpoint 'StudentController.GetStudent (SMS)'
+2026-07-13 20:14:23 [INF] Route matched with {action = "GetStudent", controller = "Student"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetStudent(Int32) on controller StudentController (SMS).
+2026-07-13 20:14:23 [INF] Executed DbCommand (1ms) [Parameters=[@__studentId_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT s.student_id, s.address, s.admission_date, s.class_id, s.dob, s.email, s.first_name, s.gender, s.last_name, s.phone, s.status, s.student_code, s.user_id, c.class_id, c.class_name, c.department_id, c.section_name
+FROM students AS s
+LEFT JOIN classes AS c ON s.class_id = c.class_id
+WHERE s.student_id = @__studentId_0
+LIMIT 1
+2026-07-13 20:14:23 [INF] Executing OkObjectResult, writing value of type 'SMS.DTOS.StudentDtos.StudentResponseDTO'.
+2026-07-13 20:14:23 [INF] Executed action StudentController.GetStudent (SMS) in 6.125ms
+2026-07-13 20:14:23 [INF] Executed endpoint 'StudentController.GetStudent (SMS)'
+2026-07-13 20:14:23 [INF] Request finished HTTP/2 GET https://localhost:7272/api/v1/students/2 - 200 null application/json; charset=utf-8 11.6943ms
+2026-07-13 20:14:26 [INF] Request starting HTTP/2 GET https://localhost:7272/api/v1/students/3 - null null
+2026-07-13 20:14:26 [INF] Executing endpoint 'StudentController.GetStudent (SMS)'
+2026-07-13 20:14:26 [INF] Route matched with {action = "GetStudent", controller = "Student"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetStudent(Int32) on controller StudentController (SMS).
+2026-07-13 20:14:26 [INF] Executed DbCommand (2ms) [Parameters=[@__studentId_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT s.student_id, s.address, s.admission_date, s.class_id, s.dob, s.email, s.first_name, s.gender, s.last_name, s.phone, s.status, s.student_code, s.user_id, c.class_id, c.class_name, c.department_id, c.section_name
+FROM students AS s
+LEFT JOIN classes AS c ON s.class_id = c.class_id
+WHERE s.student_id = @__studentId_0
+LIMIT 1
+2026-07-13 20:14:26 [INF] Executing OkObjectResult, writing value of type 'null'.
+2026-07-13 20:14:26 [INF] Executed action StudentController.GetStudent (SMS) in 9.5097ms
+2026-07-13 20:14:26 [INF] Executed endpoint 'StudentController.GetStudent (SMS)'
+2026-07-13 20:14:26 [INF] Request finished HTTP/2 GET https://localhost:7272/api/v1/students/3 - 204 null null 20.0305ms
+2026-07-13 20:14:29 [INF] Request starting HTTP/2 GET https://localhost:7272/api/v1/students/4 - null null
+2026-07-13 20:14:29 [INF] Executing endpoint 'StudentController.GetStudent (SMS)'
+2026-07-13 20:14:29 [INF] Route matched with {action = "GetStudent", controller = "Student"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetStudent(Int32) on controller StudentController (SMS).
+2026-07-13 20:14:29 [INF] Executed DbCommand (1ms) [Parameters=[@__studentId_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT s.student_id, s.address, s.admission_date, s.class_id, s.dob, s.email, s.first_name, s.gender, s.last_name, s.phone, s.status, s.student_code, s.user_id, c.class_id, c.class_name, c.department_id, c.section_name
+FROM students AS s
+LEFT JOIN classes AS c ON s.class_id = c.class_id
+WHERE s.student_id = @__studentId_0
+LIMIT 1
+2026-07-13 20:14:29 [INF] Executing OkObjectResult, writing value of type 'SMS.DTOS.StudentDtos.StudentResponseDTO'.
+2026-07-13 20:14:29 [INF] Executed action StudentController.GetStudent (SMS) in 6.0428ms
+2026-07-13 20:14:29 [INF] Executed endpoint 'StudentController.GetStudent (SMS)'
+2026-07-13 20:14:29 [INF] Request finished HTTP/2 GET https://localhost:7272/api/v1/students/4 - 200 null application/json; charset=utf-8 11.6253ms
+2026-07-13 20:14:32 [INF] Request starting HTTP/2 GET https://localhost:7272/api/v1/students/5 - null null
+2026-07-13 20:14:32 [INF] Executing endpoint 'StudentController.GetStudent (SMS)'
+2026-07-13 20:14:32 [INF] Route matched with {action = "GetStudent", controller = "Student"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetStudent(Int32) on controller StudentController (SMS).
+2026-07-13 20:14:32 [INF] Executed DbCommand (1ms) [Parameters=[@__studentId_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT s.student_id, s.address, s.admission_date, s.class_id, s.dob, s.email, s.first_name, s.gender, s.last_name, s.phone, s.status, s.student_code, s.user_id, c.class_id, c.class_name, c.department_id, c.section_name
+FROM students AS s
+LEFT JOIN classes AS c ON s.class_id = c.class_id
+WHERE s.student_id = @__studentId_0
+LIMIT 1
+2026-07-13 20:14:32 [INF] Executing OkObjectResult, writing value of type 'SMS.DTOS.StudentDtos.StudentResponseDTO'.
+2026-07-13 20:14:32 [INF] Executed action StudentController.GetStudent (SMS) in 5.926ms
+2026-07-13 20:14:32 [INF] Executed endpoint 'StudentController.GetStudent (SMS)'
+2026-07-13 20:14:32 [INF] Request finished HTTP/2 GET https://localhost:7272/api/v1/students/5 - 200 null application/json; charset=utf-8 12.3888ms
+2026-07-13 20:14:36 [INF] Request starting HTTP/2 GET https://localhost:7272/api/v1/students/6 - null null
+2026-07-13 20:14:36 [INF] Executing endpoint 'StudentController.GetStudent (SMS)'
+2026-07-13 20:14:36 [INF] Route matched with {action = "GetStudent", controller = "Student"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetStudent(Int32) on controller StudentController (SMS).
+2026-07-13 20:14:36 [INF] Executed DbCommand (2ms) [Parameters=[@__studentId_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT s.student_id, s.address, s.admission_date, s.class_id, s.dob, s.email, s.first_name, s.gender, s.last_name, s.phone, s.status, s.student_code, s.user_id, c.class_id, c.class_name, c.department_id, c.section_name
+FROM students AS s
+LEFT JOIN classes AS c ON s.class_id = c.class_id
+WHERE s.student_id = @__studentId_0
+LIMIT 1
+2026-07-13 20:14:36 [INF] Executing OkObjectResult, writing value of type 'SMS.DTOS.StudentDtos.StudentResponseDTO'.
+2026-07-13 20:14:36 [INF] Executed action StudentController.GetStudent (SMS) in 8.5176ms
+2026-07-13 20:14:36 [INF] Executed endpoint 'StudentController.GetStudent (SMS)'
+2026-07-13 20:14:36 [INF] Request finished HTTP/2 GET https://localhost:7272/api/v1/students/6 - 200 null application/json; charset=utf-8 17.9786ms
+2026-07-13 20:14:40 [INF] Request starting HTTP/2 GET https://localhost:7272/api/v1/students/7 - null null
+2026-07-13 20:14:40 [INF] Executing endpoint 'StudentController.GetStudent (SMS)'
+2026-07-13 20:14:40 [INF] Route matched with {action = "GetStudent", controller = "Student"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetStudent(Int32) on controller StudentController (SMS).
+2026-07-13 20:14:40 [INF] Executed DbCommand (1ms) [Parameters=[@__studentId_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT s.student_id, s.address, s.admission_date, s.class_id, s.dob, s.email, s.first_name, s.gender, s.last_name, s.phone, s.status, s.student_code, s.user_id, c.class_id, c.class_name, c.department_id, c.section_name
+FROM students AS s
+LEFT JOIN classes AS c ON s.class_id = c.class_id
+WHERE s.student_id = @__studentId_0
+LIMIT 1
+2026-07-13 20:14:40 [INF] Executing OkObjectResult, writing value of type 'SMS.DTOS.StudentDtos.StudentResponseDTO'.
+2026-07-13 20:14:40 [INF] Executed action StudentController.GetStudent (SMS) in 6.5256ms
+2026-07-13 20:14:40 [INF] Executed endpoint 'StudentController.GetStudent (SMS)'
+2026-07-13 20:14:40 [INF] Request finished HTTP/2 GET https://localhost:7272/api/v1/students/7 - 200 null application/json; charset=utf-8 12.234ms
+2026-07-13 20:14:42 [INF] Request starting HTTP/2 GET https://localhost:7272/api/v1/students/7 - null null
+2026-07-13 20:14:42 [INF] Executing endpoint 'StudentController.GetStudent (SMS)'
+2026-07-13 20:14:42 [INF] Route matched with {action = "GetStudent", controller = "Student"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetStudent(Int32) on controller StudentController (SMS).
+2026-07-13 20:14:42 [INF] Executed DbCommand (2ms) [Parameters=[@__studentId_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT s.student_id, s.address, s.admission_date, s.class_id, s.dob, s.email, s.first_name, s.gender, s.last_name, s.phone, s.status, s.student_code, s.user_id, c.class_id, c.class_name, c.department_id, c.section_name
+FROM students AS s
+LEFT JOIN classes AS c ON s.class_id = c.class_id
+WHERE s.student_id = @__studentId_0
+LIMIT 1
+2026-07-13 20:14:42 [INF] Executing OkObjectResult, writing value of type 'SMS.DTOS.StudentDtos.StudentResponseDTO'.
+2026-07-13 20:14:42 [INF] Executed action StudentController.GetStudent (SMS) in 6.5087ms
+2026-07-13 20:14:42 [INF] Executed endpoint 'StudentController.GetStudent (SMS)'
+2026-07-13 20:14:42 [INF] Request finished HTTP/2 GET https://localhost:7272/api/v1/students/7 - 200 null application/json; charset=utf-8 12.1483ms
+2026-07-13 20:14:46 [INF] Request starting HTTP/2 GET https://localhost:7272/api/v1/students/7 - null null
+2026-07-13 20:14:46 [INF] Executing endpoint 'StudentController.GetStudent (SMS)'
+2026-07-13 20:14:46 [INF] Route matched with {action = "GetStudent", controller = "Student"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetStudent(Int32) on controller StudentController (SMS).
+2026-07-13 20:14:46 [INF] Executed DbCommand (1ms) [Parameters=[@__studentId_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT s.student_id, s.address, s.admission_date, s.class_id, s.dob, s.email, s.first_name, s.gender, s.last_name, s.phone, s.status, s.student_code, s.user_id, c.class_id, c.class_name, c.department_id, c.section_name
+FROM students AS s
+LEFT JOIN classes AS c ON s.class_id = c.class_id
+WHERE s.student_id = @__studentId_0
+LIMIT 1
+2026-07-13 20:14:46 [INF] Executing OkObjectResult, writing value of type 'SMS.DTOS.StudentDtos.StudentResponseDTO'.
+2026-07-13 20:14:46 [INF] Executed action StudentController.GetStudent (SMS) in 5.2967ms
+2026-07-13 20:14:46 [INF] Executed endpoint 'StudentController.GetStudent (SMS)'
+2026-07-13 20:14:46 [INF] Request finished HTTP/2 GET https://localhost:7272/api/v1/students/7 - 200 null application/json; charset=utf-8 13.2833ms
+2026-07-13 20:14:47 [INF] Request starting HTTP/2 GET https://localhost:7272/api/v1/students/7 - null null
+2026-07-13 20:14:47 [INF] Executing endpoint 'StudentController.GetStudent (SMS)'
+2026-07-13 20:14:47 [INF] Route matched with {action = "GetStudent", controller = "Student"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetStudent(Int32) on controller StudentController (SMS).
+2026-07-13 20:14:47 [INF] Executed DbCommand (1ms) [Parameters=[@__studentId_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT s.student_id, s.address, s.admission_date, s.class_id, s.dob, s.email, s.first_name, s.gender, s.last_name, s.phone, s.status, s.student_code, s.user_id, c.class_id, c.class_name, c.department_id, c.section_name
+FROM students AS s
+LEFT JOIN classes AS c ON s.class_id = c.class_id
+WHERE s.student_id = @__studentId_0
+LIMIT 1
+2026-07-13 20:14:47 [INF] Executing OkObjectResult, writing value of type 'SMS.DTOS.StudentDtos.StudentResponseDTO'.
+2026-07-13 20:14:47 [INF] Executed action StudentController.GetStudent (SMS) in 5.9355ms
+2026-07-13 20:14:47 [INF] Executed endpoint 'StudentController.GetStudent (SMS)'
+2026-07-13 20:14:47 [INF] Request finished HTTP/2 GET https://localhost:7272/api/v1/students/7 - 200 null application/json; charset=utf-8 12.5007ms
+2026-07-13 20:14:48 [INF] Request starting HTTP/2 GET https://localhost:7272/api/v1/students/7 - null null
+2026-07-13 20:14:48 [INF] Executing endpoint 'StudentController.GetStudent (SMS)'
+2026-07-13 20:14:48 [INF] Route matched with {action = "GetStudent", controller = "Student"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetStudent(Int32) on controller StudentController (SMS).
+2026-07-13 20:14:48 [INF] Executed DbCommand (2ms) [Parameters=[@__studentId_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT s.student_id, s.address, s.admission_date, s.class_id, s.dob, s.email, s.first_name, s.gender, s.last_name, s.phone, s.status, s.student_code, s.user_id, c.class_id, c.class_name, c.department_id, c.section_name
+FROM students AS s
+LEFT JOIN classes AS c ON s.class_id = c.class_id
+WHERE s.student_id = @__studentId_0
+LIMIT 1
+2026-07-13 20:14:48 [INF] Executing OkObjectResult, writing value of type 'SMS.DTOS.StudentDtos.StudentResponseDTO'.
+2026-07-13 20:14:48 [INF] Executed action StudentController.GetStudent (SMS) in 8.0058ms
+2026-07-13 20:14:48 [INF] Executed endpoint 'StudentController.GetStudent (SMS)'
+2026-07-13 20:14:48 [INF] Request finished HTTP/2 GET https://localhost:7272/api/v1/students/7 - 200 null application/json; charset=utf-8 18.3521ms
+2026-07-13 20:14:49 [INF] Request starting HTTP/2 GET https://localhost:7272/api/v1/students/7 - null null
+2026-07-13 20:14:49 [INF] Executing endpoint 'StudentController.GetStudent (SMS)'
+2026-07-13 20:14:49 [INF] Route matched with {action = "GetStudent", controller = "Student"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetStudent(Int32) on controller StudentController (SMS).
+2026-07-13 20:14:49 [INF] Executed DbCommand (2ms) [Parameters=[@__studentId_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT s.student_id, s.address, s.admission_date, s.class_id, s.dob, s.email, s.first_name, s.gender, s.last_name, s.phone, s.status, s.student_code, s.user_id, c.class_id, c.class_name, c.department_id, c.section_name
+FROM students AS s
+LEFT JOIN classes AS c ON s.class_id = c.class_id
+WHERE s.student_id = @__studentId_0
+LIMIT 1
+2026-07-13 20:14:49 [INF] Executing OkObjectResult, writing value of type 'SMS.DTOS.StudentDtos.StudentResponseDTO'.
+2026-07-13 20:14:49 [INF] Executed action StudentController.GetStudent (SMS) in 7.086ms
+2026-07-13 20:14:49 [INF] Executed endpoint 'StudentController.GetStudent (SMS)'
+2026-07-13 20:14:49 [INF] Request finished HTTP/2 GET https://localhost:7272/api/v1/students/7 - 200 null application/json; charset=utf-8 12.7703ms
+2026-07-13 20:14:49 [INF] Request starting HTTP/2 GET https://localhost:7272/api/v1/students/7 - null null
+2026-07-13 20:14:49 [INF] Executing endpoint 'StudentController.GetStudent (SMS)'
+2026-07-13 20:14:49 [INF] Route matched with {action = "GetStudent", controller = "Student"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetStudent(Int32) on controller StudentController (SMS).
+2026-07-13 20:14:49 [INF] Executed DbCommand (2ms) [Parameters=[@__studentId_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT s.student_id, s.address, s.admission_date, s.class_id, s.dob, s.email, s.first_name, s.gender, s.last_name, s.phone, s.status, s.student_code, s.user_id, c.class_id, c.class_name, c.department_id, c.section_name
+FROM students AS s
+LEFT JOIN classes AS c ON s.class_id = c.class_id
+WHERE s.student_id = @__studentId_0
+LIMIT 1
+2026-07-13 20:14:49 [INF] Executing OkObjectResult, writing value of type 'SMS.DTOS.StudentDtos.StudentResponseDTO'.
+2026-07-13 20:14:49 [INF] Executed action StudentController.GetStudent (SMS) in 6.7808ms
+2026-07-13 20:14:49 [INF] Executed endpoint 'StudentController.GetStudent (SMS)'
+2026-07-13 20:14:49 [INF] Request finished HTTP/2 GET https://localhost:7272/api/v1/students/7 - 200 null application/json; charset=utf-8 13.0488ms
+2026-07-13 20:14:50 [INF] Request starting HTTP/2 GET https://localhost:7272/api/v1/students/7 - null null
+2026-07-13 20:14:50 [INF] Request finished HTTP/2 GET https://localhost:7272/api/v1/students/7 - 429 null application/json 2.1692ms
+2026-07-13 20:14:50 [INF] Request starting HTTP/2 GET https://localhost:7272/api/v1/students/7 - null null
+2026-07-13 20:14:50 [INF] Request finished HTTP/2 GET https://localhost:7272/api/v1/students/7 - 429 null application/json 3.4849ms
+2026-07-13 21:08:26 [INF] Request starting HTTP/2 GET https://localhost:7272/api/v1/students/7 - null null
+2026-07-13 21:08:26 [INF] Executing endpoint 'StudentController.GetStudent (SMS)'
+2026-07-13 21:08:26 [INF] Route matched with {action = "GetStudent", controller = "Student"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetStudent(Int32) on controller StudentController (SMS).
+2026-07-13 21:08:27 [INF] Executed DbCommand (3ms) [Parameters=[@__studentId_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT s.student_id, s.address, s.admission_date, s.class_id, s.dob, s.email, s.first_name, s.gender, s.last_name, s.phone, s.status, s.student_code, s.user_id, c.class_id, c.class_name, c.department_id, c.section_name
+FROM students AS s
+LEFT JOIN classes AS c ON s.class_id = c.class_id
+WHERE s.student_id = @__studentId_0
+LIMIT 1
+2026-07-13 21:08:27 [INF] Executing OkObjectResult, writing value of type 'SMS.DTOS.StudentDtos.StudentResponseDTO'.
+2026-07-13 21:08:27 [INF] Executed action StudentController.GetStudent (SMS) in 79.9993ms
+2026-07-13 21:08:27 [INF] Executed endpoint 'StudentController.GetStudent (SMS)'
+2026-07-13 21:08:27 [INF] Request finished HTTP/2 GET https://localhost:7272/api/v1/students/7 - 200 null application/json; charset=utf-8 87.4555ms
+2026-07-13 21:08:27 [INF] Request starting HTTP/2 GET https://localhost:7272/api/v1/students/7 - null null
+2026-07-13 21:08:27 [INF] Executing endpoint 'StudentController.GetStudent (SMS)'
+2026-07-13 21:08:27 [INF] Route matched with {action = "GetStudent", controller = "Student"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetStudent(Int32) on controller StudentController (SMS).
+2026-07-13 21:08:27 [INF] Executed DbCommand (1ms) [Parameters=[@__studentId_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT s.student_id, s.address, s.admission_date, s.class_id, s.dob, s.email, s.first_name, s.gender, s.last_name, s.phone, s.status, s.student_code, s.user_id, c.class_id, c.class_name, c.department_id, c.section_name
+FROM students AS s
+LEFT JOIN classes AS c ON s.class_id = c.class_id
+WHERE s.student_id = @__studentId_0
+LIMIT 1
+2026-07-13 21:08:27 [INF] Executing OkObjectResult, writing value of type 'SMS.DTOS.StudentDtos.StudentResponseDTO'.
+2026-07-13 21:08:27 [INF] Executed action StudentController.GetStudent (SMS) in 6.1263ms
+2026-07-13 21:08:27 [INF] Executed endpoint 'StudentController.GetStudent (SMS)'
+2026-07-13 21:08:27 [INF] Request finished HTTP/2 GET https://localhost:7272/api/v1/students/7 - 200 null application/json; charset=utf-8 16.7662ms
+2026-07-13 21:08:27 [INF] Request starting HTTP/2 GET https://localhost:7272/api/v1/students/7 - null null
+2026-07-13 21:08:27 [INF] Executing endpoint 'StudentController.GetStudent (SMS)'
+2026-07-13 21:08:27 [INF] Route matched with {action = "GetStudent", controller = "Student"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetStudent(Int32) on controller StudentController (SMS).
+2026-07-13 21:08:27 [INF] Executed DbCommand (1ms) [Parameters=[@__studentId_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT s.student_id, s.address, s.admission_date, s.class_id, s.dob, s.email, s.first_name, s.gender, s.last_name, s.phone, s.status, s.student_code, s.user_id, c.class_id, c.class_name, c.department_id, c.section_name
+FROM students AS s
+LEFT JOIN classes AS c ON s.class_id = c.class_id
+WHERE s.student_id = @__studentId_0
+LIMIT 1
+2026-07-13 21:08:27 [INF] Executing OkObjectResult, writing value of type 'SMS.DTOS.StudentDtos.StudentResponseDTO'.
+2026-07-13 21:08:27 [INF] Executed action StudentController.GetStudent (SMS) in 4.7008ms
+2026-07-13 21:08:27 [INF] Executed endpoint 'StudentController.GetStudent (SMS)'
+2026-07-13 21:08:27 [INF] Request finished HTTP/2 GET https://localhost:7272/api/v1/students/7 - 200 null application/json; charset=utf-8 10.0715ms
+2026-07-13 21:08:28 [INF] Request starting HTTP/2 GET https://localhost:7272/api/v1/students/7 - null null
+2026-07-13 21:08:28 [INF] Executing endpoint 'StudentController.GetStudent (SMS)'
+2026-07-13 21:08:28 [INF] Route matched with {action = "GetStudent", controller = "Student"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetStudent(Int32) on controller StudentController (SMS).
+2026-07-13 21:08:28 [INF] Executed DbCommand (1ms) [Parameters=[@__studentId_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT s.student_id, s.address, s.admission_date, s.class_id, s.dob, s.email, s.first_name, s.gender, s.last_name, s.phone, s.status, s.student_code, s.user_id, c.class_id, c.class_name, c.department_id, c.section_name
+FROM students AS s
+LEFT JOIN classes AS c ON s.class_id = c.class_id
+WHERE s.student_id = @__studentId_0
+LIMIT 1
+2026-07-13 21:08:28 [INF] Executing OkObjectResult, writing value of type 'SMS.DTOS.StudentDtos.StudentResponseDTO'.
+2026-07-13 21:08:28 [INF] Executed action StudentController.GetStudent (SMS) in 6.4035ms
+2026-07-13 21:08:28 [INF] Executed endpoint 'StudentController.GetStudent (SMS)'
+2026-07-13 21:08:28 [INF] Request finished HTTP/2 GET https://localhost:7272/api/v1/students/7 - 200 null application/json; charset=utf-8 12.5406ms
+2026-07-13 21:08:28 [INF] Request starting HTTP/2 GET https://localhost:7272/api/v1/students/7 - null null
+2026-07-13 21:08:28 [INF] Executing endpoint 'StudentController.GetStudent (SMS)'
+2026-07-13 21:08:28 [INF] Route matched with {action = "GetStudent", controller = "Student"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetStudent(Int32) on controller StudentController (SMS).
+2026-07-13 21:08:28 [INF] Executed DbCommand (1ms) [Parameters=[@__studentId_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT s.student_id, s.address, s.admission_date, s.class_id, s.dob, s.email, s.first_name, s.gender, s.last_name, s.phone, s.status, s.student_code, s.user_id, c.class_id, c.class_name, c.department_id, c.section_name
+FROM students AS s
+LEFT JOIN classes AS c ON s.class_id = c.class_id
+WHERE s.student_id = @__studentId_0
+LIMIT 1
+2026-07-13 21:08:28 [INF] Executing OkObjectResult, writing value of type 'SMS.DTOS.StudentDtos.StudentResponseDTO'.
+2026-07-13 21:08:28 [INF] Executed action StudentController.GetStudent (SMS) in 4.8714ms
+2026-07-13 21:08:28 [INF] Executed endpoint 'StudentController.GetStudent (SMS)'
+2026-07-13 21:08:28 [INF] Request finished HTTP/2 GET https://localhost:7272/api/v1/students/7 - 200 null application/json; charset=utf-8 9.9546ms
+2026-07-13 21:08:28 [INF] Request starting HTTP/2 GET https://localhost:7272/api/v1/students/7 - null null
+2026-07-13 21:08:28 [INF] Request finished HTTP/2 GET https://localhost:7272/api/v1/students/7 - 429 null application/json 2.0603ms
+2026-07-13 21:08:29 [INF] Request starting HTTP/2 GET https://localhost:7272/api/v1/students/7 - null null
+2026-07-13 21:08:29 [INF] Request finished HTTP/2 GET https://localhost:7272/api/v1/students/7 - 429 null application/json 2.0553ms
+2026-07-13 21:08:30 [INF] Request starting HTTP/2 GET https://localhost:7272/api/v1/students/7 - null null
+2026-07-13 21:08:30 [INF] Request finished HTTP/2 GET https://localhost:7272/api/v1/students/7 - 429 null application/json 2.1183ms
+2026-07-13 21:08:31 [INF] Request starting HTTP/2 GET https://localhost:7272/api/v1/students/7 - null null
+2026-07-13 21:08:31 [INF] Request finished HTTP/2 GET https://localhost:7272/api/v1/students/7 - 429 null application/json 3.9826ms
+2026-07-13 21:08:34 [INF] Request starting HTTP/2 GET https://localhost:7272/api/v1/students/7 - null null
+2026-07-13 21:08:34 [INF] Request finished HTTP/2 GET https://localhost:7272/api/v1/students/7 - 429 null application/json 2.4708ms
+2026-07-13 21:08:35 [INF] Request starting HTTP/2 GET https://localhost:7272/api/v1/students/7 - null null
+2026-07-13 21:08:35 [INF] Request finished HTTP/2 GET https://localhost:7272/api/v1/students/7 - 429 null application/json 1.9446ms
+2026-07-13 21:08:36 [INF] Request starting HTTP/2 GET https://localhost:7272/api/v1/students/7 - null null
+2026-07-13 21:08:36 [INF] Request finished HTTP/2 GET https://localhost:7272/api/v1/students/7 - 429 null application/json 1.7879ms
+2026-07-13 21:08:37 [INF] Request starting HTTP/2 GET https://localhost:7272/api/v1/students/7 - null null
+2026-07-13 21:08:37 [INF] Executing endpoint 'StudentController.GetStudent (SMS)'
+2026-07-13 21:08:37 [INF] Route matched with {action = "GetStudent", controller = "Student"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetStudent(Int32) on controller StudentController (SMS).
+2026-07-13 21:08:37 [INF] Executed DbCommand (1ms) [Parameters=[@__studentId_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT s.student_id, s.address, s.admission_date, s.class_id, s.dob, s.email, s.first_name, s.gender, s.last_name, s.phone, s.status, s.student_code, s.user_id, c.class_id, c.class_name, c.department_id, c.section_name
+FROM students AS s
+LEFT JOIN classes AS c ON s.class_id = c.class_id
+WHERE s.student_id = @__studentId_0
+LIMIT 1
+2026-07-13 21:08:37 [INF] Executing OkObjectResult, writing value of type 'SMS.DTOS.StudentDtos.StudentResponseDTO'.
+2026-07-13 21:08:37 [INF] Executed action StudentController.GetStudent (SMS) in 6.3122ms
+2026-07-13 21:08:37 [INF] Executed endpoint 'StudentController.GetStudent (SMS)'
+2026-07-13 21:08:37 [INF] Request finished HTTP/2 GET https://localhost:7272/api/v1/students/7 - 200 null application/json; charset=utf-8 11.6008ms
+2026-07-13 21:17:01 [INF] Request starting HTTP/2 GET https://localhost:7272/api/v1/students/7 - null null
+2026-07-13 21:17:01 [INF] Executing endpoint 'StudentController.GetStudent (SMS)'
+2026-07-13 21:17:01 [INF] Route matched with {action = "GetStudent", controller = "Student"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetStudent(Int32) on controller StudentController (SMS).
+2026-07-13 21:17:01 [INF] Executed DbCommand (2ms) [Parameters=[@__studentId_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT s.student_id, s.address, s.admission_date, s.class_id, s.dob, s.email, s.first_name, s.gender, s.last_name, s.phone, s.status, s.student_code, s.user_id, c.class_id, c.class_name, c.department_id, c.section_name
+FROM students AS s
+LEFT JOIN classes AS c ON s.class_id = c.class_id
+WHERE s.student_id = @__studentId_0
+LIMIT 1
+2026-07-13 21:17:01 [INF] Executing OkObjectResult, writing value of type 'SMS.DTOS.StudentDtos.StudentResponseDTO'.
+2026-07-13 21:17:01 [INF] Executed action StudentController.GetStudent (SMS) in 82.1707ms
+2026-07-13 21:17:01 [INF] Executed endpoint 'StudentController.GetStudent (SMS)'
+2026-07-13 21:17:01 [INF] Request finished HTTP/2 GET https://localhost:7272/api/v1/students/7 - 200 null application/json; charset=utf-8 87.8803ms
+2026-07-13 21:17:02 [INF] Request starting HTTP/2 GET https://localhost:7272/api/v1/students/7 - null null
+2026-07-13 21:17:02 [INF] Executing endpoint 'StudentController.GetStudent (SMS)'
+2026-07-13 21:17:02 [INF] Route matched with {action = "GetStudent", controller = "Student"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetStudent(Int32) on controller StudentController (SMS).
+2026-07-13 21:17:02 [INF] Executed DbCommand (1ms) [Parameters=[@__studentId_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT s.student_id, s.address, s.admission_date, s.class_id, s.dob, s.email, s.first_name, s.gender, s.last_name, s.phone, s.status, s.student_code, s.user_id, c.class_id, c.class_name, c.department_id, c.section_name
+FROM students AS s
+LEFT JOIN classes AS c ON s.class_id = c.class_id
+WHERE s.student_id = @__studentId_0
+LIMIT 1
+2026-07-13 21:17:02 [INF] Executing OkObjectResult, writing value of type 'SMS.DTOS.StudentDtos.StudentResponseDTO'.
+2026-07-13 21:17:02 [INF] Executed action StudentController.GetStudent (SMS) in 5.1364ms
+2026-07-13 21:17:02 [INF] Executed endpoint 'StudentController.GetStudent (SMS)'
+2026-07-13 21:17:02 [INF] Request finished HTTP/2 GET https://localhost:7272/api/v1/students/7 - 200 null application/json; charset=utf-8 11.5723ms
+2026-07-13 21:17:02 [INF] Request starting HTTP/2 GET https://localhost:7272/api/v1/students/7 - null null
+2026-07-13 21:17:02 [INF] Executing endpoint 'StudentController.GetStudent (SMS)'
+2026-07-13 21:17:02 [INF] Route matched with {action = "GetStudent", controller = "Student"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetStudent(Int32) on controller StudentController (SMS).
+2026-07-13 21:17:02 [INF] Executed DbCommand (1ms) [Parameters=[@__studentId_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT s.student_id, s.address, s.admission_date, s.class_id, s.dob, s.email, s.first_name, s.gender, s.last_name, s.phone, s.status, s.student_code, s.user_id, c.class_id, c.class_name, c.department_id, c.section_name
+FROM students AS s
+LEFT JOIN classes AS c ON s.class_id = c.class_id
+WHERE s.student_id = @__studentId_0
+LIMIT 1
+2026-07-13 21:17:02 [INF] Executing OkObjectResult, writing value of type 'SMS.DTOS.StudentDtos.StudentResponseDTO'.
+2026-07-13 21:17:02 [INF] Executed action StudentController.GetStudent (SMS) in 4.7749ms
+2026-07-13 21:17:02 [INF] Executed endpoint 'StudentController.GetStudent (SMS)'
+2026-07-13 21:17:02 [INF] Request finished HTTP/2 GET https://localhost:7272/api/v1/students/7 - 200 null application/json; charset=utf-8 9.8612ms
+2026-07-13 21:17:03 [INF] Request starting HTTP/2 GET https://localhost:7272/api/v1/students/7 - null null
+2026-07-13 21:17:03 [INF] Executing endpoint 'StudentController.GetStudent (SMS)'
+2026-07-13 21:17:03 [INF] Route matched with {action = "GetStudent", controller = "Student"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetStudent(Int32) on controller StudentController (SMS).
+2026-07-13 21:17:03 [INF] Executed DbCommand (1ms) [Parameters=[@__studentId_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT s.student_id, s.address, s.admission_date, s.class_id, s.dob, s.email, s.first_name, s.gender, s.last_name, s.phone, s.status, s.student_code, s.user_id, c.class_id, c.class_name, c.department_id, c.section_name
+FROM students AS s
+LEFT JOIN classes AS c ON s.class_id = c.class_id
+WHERE s.student_id = @__studentId_0
+LIMIT 1
+2026-07-13 21:17:03 [INF] Executing OkObjectResult, writing value of type 'SMS.DTOS.StudentDtos.StudentResponseDTO'.
+2026-07-13 21:17:03 [INF] Executed action StudentController.GetStudent (SMS) in 4.7018ms
+2026-07-13 21:17:03 [INF] Executed endpoint 'StudentController.GetStudent (SMS)'
+2026-07-13 21:17:03 [INF] Request finished HTTP/2 GET https://localhost:7272/api/v1/students/7 - 200 null application/json; charset=utf-8 9.7716ms
+2026-07-13 21:17:04 [INF] Request starting HTTP/2 GET https://localhost:7272/api/v1/students/7 - null null
+2026-07-13 21:17:04 [INF] Executing endpoint 'StudentController.GetStudent (SMS)'
+2026-07-13 21:17:04 [INF] Route matched with {action = "GetStudent", controller = "Student"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetStudent(Int32) on controller StudentController (SMS).
+2026-07-13 21:17:04 [INF] Executed DbCommand (1ms) [Parameters=[@__studentId_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT s.student_id, s.address, s.admission_date, s.class_id, s.dob, s.email, s.first_name, s.gender, s.last_name, s.phone, s.status, s.student_code, s.user_id, c.class_id, c.class_name, c.department_id, c.section_name
+FROM students AS s
+LEFT JOIN classes AS c ON s.class_id = c.class_id
+WHERE s.student_id = @__studentId_0
+LIMIT 1
+2026-07-13 21:17:04 [INF] Executing OkObjectResult, writing value of type 'SMS.DTOS.StudentDtos.StudentResponseDTO'.
+2026-07-13 21:17:04 [INF] Executed action StudentController.GetStudent (SMS) in 5.5186ms
+2026-07-13 21:17:04 [INF] Executed endpoint 'StudentController.GetStudent (SMS)'
+2026-07-13 21:17:04 [INF] Request finished HTTP/2 GET https://localhost:7272/api/v1/students/7 - 200 null application/json; charset=utf-8 11.2257ms
+2026-07-13 21:17:04 [INF] Request starting HTTP/2 GET https://localhost:7272/api/v1/students/7 - null null
+2026-07-13 21:17:04 [INF] Request finished HTTP/2 GET https://localhost:7272/api/v1/students/7 - 429 null application/json 1.8427ms
+2026-07-13 21:17:05 [INF] Request starting HTTP/2 GET https://localhost:7272/api/v1/students/7 - null null
+2026-07-13 21:17:05 [INF] Request finished HTTP/2 GET https://localhost:7272/api/v1/students/7 - 429 null application/json 2.1385ms
